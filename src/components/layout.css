@@ -1,0 +1,6 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url("../images/background-gradient-red.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
