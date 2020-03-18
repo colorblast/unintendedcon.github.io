@@ -2,6 +2,11 @@
 layout: post
 title: Bootstrapping Banh, a smart calendar
 date: 2020-01-04 12:14 -0400
+description: >-
+    Banh is a smart calendar app that utilizes the deep working methodology and data to make you more productive.
+keywords:
+    - productivity
+    - startups
 ---
 
 TLDR: I created a smart calendar called [banh](https://banh.app) and you should sign up for it.

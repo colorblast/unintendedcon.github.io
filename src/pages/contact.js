@@ -17,13 +17,15 @@ function ContactPage() {
         <p class="leading-loose text-white">
           The best way to reach me is through keybase or email.
           <br />
-          Keybase: <a className="no-underline text-gray-900" href="https://keybase.io/reallyidk">reallyidk</a>
+          Keybase: <a className="no-underline text-gray-600" href="https://keybase.io/reallyidk">reallyidk</a>
           <br />
-          Linkedin: <a className="no-underline text-gray-900" href="https://linkedin.com/in/unintendedcon">unintendedcon</a>
+          Linkedin: <a className="no-underline text-gray-600" href="https://linkedin.com/in/unintendedcon">unintendedcon</a>
           <br />
-          Twitter: <a className="no-underline text-gray-900" href="https://twitter.com/suchcaptcha">suchcaptcha</a>
+          Twitter: <a className="no-underline text-gray-600" href="https://twitter.com/suchcaptcha">suchcaptcha</a>
           <br />
-          Email: <a className="no-underline text-gray-900" href="mailto:jcw@vivaldi.net">jcw [at] vivaldi.net</a>
+	        Product Hunt: <a className="no-underline text-gray-600" href="https://www.producthunt.com/suchcaptcha">suchcaptcha</a>
+          <br />
+          Email: <a className="no-underline text-gray-600" href="mailto:jcw@vivaldi.net">jcw [at] vivaldi.net</a>
         </p>
       </section>
     </Layout>

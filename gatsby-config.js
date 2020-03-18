@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `unintendedcon`,
-    description: `home site of unintendecon, Jonathan Wong.`,
-    author: `@Jonw27`
+    description: `CS, startups, and productivity. Follow the in-progress life story of 19 year old me.`,
+      author: `Jonathan Wong`,
+      siteUrl: `https://unintendedcon.github.io`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -40,6 +41,7 @@ module.exports = {
         basePath: "/photos/",
       }
     },
-    `gatsby-plugin-offline`
+      `gatsby-plugin-offline`,
+      `gatsby-plugin-sitemap`,
   ]
 };

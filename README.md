@@ -12,3 +12,4 @@ It fully supports a relatively minimalistic website with a blog, photo gallery, 
 [ ] Date formatting with react-moment
 [ ] estimated read times
 [ ] Update favicon.ico
+[ ] add blog post image support
