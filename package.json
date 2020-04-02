@@ -45,7 +45,8 @@
     "fix:lint": "eslint --ext .jsx --ext .js . --fix",
     "fix:prettier": "prettier --write '**/*.{js,css,md,json}'",
     "fix": "npm run fix:lint && npm run fix:prettier",
-    "start": "npm run develop",
+      "start": "npm run develop",
+      "stage": "git push staging master",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
