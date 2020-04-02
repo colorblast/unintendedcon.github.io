@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 
-::selection {
+/*::selection {
     background: #C94B4B;
 }
 
 ::moz-selection {
     background: #C94B4B;
-}
+}*/

@@ -40,7 +40,7 @@ const BlogPost = (props) => {
                 description={props.data.markdownRemark.frontmatter.description}
                 keywords={props.data.markdownRemark.frontmatter.keywords}
             />
-            <section className="text-white">
+            <section className="text-gray-900">
             <h1 className="text-3xl">{props.data.markdownRemark.frontmatter.title}</h1>
             <p>{props.data.markdownRemark.frontmatter.date}</p>
             <div dangerouslySetInnerHTML={{ __html: $.html()}}>
