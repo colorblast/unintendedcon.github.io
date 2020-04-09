@@ -12,7 +12,7 @@ function GoalPage() {
       />
 
       <section className="flex flex-col md:flex-row items-center">
-        <div className="w-full text-white">
+        <div className="w-full text-gray-900">
           <blockquote className="border-l-4 border-gray-300 font-serif leading-loose pl-4 text-justify">
           There’s more honor in defeat than unused potential.
           </blockquote>

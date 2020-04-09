@@ -13,7 +13,7 @@ function PhotosPage() {
       />
 
       <section className="flex flex-col md:flex-row items-center">
-        <div className="w-full text-white">
+        <div className="w-full text-gray-900">
           <h2 className="text-3xl">
             Photos
           </h2>

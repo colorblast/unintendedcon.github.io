@@ -8,8 +8,9 @@ It fully supports a relatively minimalistic website with a blog, photo gallery, 
 
 ## TODO
 
-[ ] RSS Feed
-[ ] Date formatting with react-moment
-[ ] estimated read times
-[ ] Update favicon.ico
-[ ] add blog post image support
+- [ ] RSS Feed
+- [ ] Date formatting with react-moment
+- [ ] estimated read times
+- [ ] Update favicon.ico
+- [ ] Add blog post image support
+- [ ] Add blog post side notes

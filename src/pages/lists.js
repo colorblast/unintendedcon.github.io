@@ -1,5 +1,6 @@
 import React from "react";
 import Collapsible from 'react-collapsible';
+import ReactToolTip from 'react-tooltip'
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -18,50 +19,65 @@ function ListsPage() {
             Lists
           </h2>
           <p>
-            Lists organize so many things. I highly recommend you maintain some of your own.
+            Lists organize so many things. I highly recommend you maintain some of your own. A * means I highly recommend  it.
           </p>
           <br />
-          <Collapsible trigger="Tech Blogs >">
-            <li><a href="https://jvns.ca/">https://jvns.ca</a></li>
-            <li><a href="http://www.paulgraham.com/articles.html">http://www.paulgraham.com/articles.html</a></li>
+          <Collapsible trigger="Tech Blogs >" className="cursor-pointer" triggerWhenOpen="Tech Blogs" triggerOpenedClassName="cursor-pointer font-bold text-xl">
+            <li><a href="https://jvns.ca/">https://jvns.ca *</a></li>
+            <li><a href="http://www.paulgraham.com/articles.html">http://www.paulgraham.com/articles.html *</a></li>
             <li><a href="https://blog.codinghorror.com">https://blog.codinghorror.com</a></li>
             <li><a href="https://www.kalzumeus.com/greatest-hits/">https://www.kalzumeus.com/greatest-hits/</a></li>
           </Collapsible>
-          <Collapsible trigger="Life Blogs/Websites >">
-		        <li><a href="https://waitbutwhy.com/">https://waitbutwhy.com/</a></li>
+          <Collapsible trigger="Life Blogs/Websites >" className="cursor-pointer" triggerWhenOpen="Other Cool Blogs" triggerOpenedClassName="font-bold text-xl">
+		        <li><a href="https://waitbutwhy.com/">waitbutwhy *</a></li>
+            <li><a href="https://slatestarcodex.com/">slatestarcodex</a></li>
             <li><a href="https://palladiummag.com">https://palladiummag.com</a></li>
             <li><a href="https://idlewords.com/">https://idlewords.com/</a></li>
             <li><a href="https://malharmali.com/category/essays-criticism/">https://malharmali.com/category/essays-criticism/</a></li>
           </Collapsible>
-          <Collapsible trigger="Provocative Stuff >">
+          <Collapsible trigger="Provocative Stuff >" className="cursor-pointer" triggerWhenOpen="Intriguing Stuff" triggerOpenedClassName="font-bold text-xl">
             <li><a href="https://www.maa.org/external_archive/devlin/LockhartsLament.pdf">Lockhart's Lament</a></li>
             <li><a href="https://medium.freecodecamp.org/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08">Inside the invisible war for the open internet</a></li>
             <li><a href="http://humanetech.com">Humane Tech (Tristan Harris)</a></li>
-            <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">The Last Lecture</a></li>
+            <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">The Last Lecture *</a></li>
             <li><a href="https://www.strike.coop/bullshit-jobs/">On The Phenomenon of Bullshit Jobs: A Work Rant</a></li>
-            <li><a href="https://www.youtube.com/watch?v=PUv66718DII">Inventing on Principle</a></li>
+            <li><a href="https://www.youtube.com/watch?v=PUv66718DII">Inventing on Principle *</a></li>
             <li><a href="https://www.youtube.com/watch?v=8pTEmbeENF4">The Future of Programming</a></li>
             <li><a href="https://medium.com/@sebmck/2015-in-review-51ac7035e272">Seb. Mckenzie ~2015 yr in review</a></li>
             <li><a href="https://medium.com/@jessicamleee/how-to-hack-international-conferences-hackathons-and-world-travel-in-college-ab59ebbcb32e">Hackathons, Conferences, and Traveling</a></li>
-            <li><a href="https://patrickcollison.com/advice">Patrick Collison advice</a></li>
+            <li><a href="https://patrickcollison.com/advice">Patrick Collison advice *</a></li>
             <li><a href="https://www.youtube.com/watch?v=btVMA6SjShw">Ram Shriram talk</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Black_swan_theory">Black Swan Theory</a></li>
-            <li><a href="https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/">The Real Problem at Yale is Not Free Speech</a></li>
+            <li><a href="https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/">The Real Problem at Yale is Not Free Speech *</a></li>
             <li><a href="https://yaledailynews.com/blog/2012/05/27/keegan-the-opposite-of-loneliness/">The Opposite of Loneliness</a></li>
-            <li><a href="http://mindingourway.com/guilt/">Minding Your Way</a></li>
+            <li><a href="http://mindingourway.com/guilt/">Minding Our Way</a></li>
+            <li><a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">This Is Water *</a></li>
+            <li><a href="https://theamericanscholar.org/the-disadvantages-of-an-elite-education/">The Disadvantages of an Elite Education</a></li>
+            <li><a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Meditations on Moloch</a></li>
+            <li><a href="https://blog.samaltman.com/how-to-be-successful">How to Be Successful</a></li>
+            <li><a href="https://www.perell.com/blog/news-in-the-age-of-abundance">News in the Age of Abundance</a></li>
+            <li><a href="https://humaninformationprocessing.com/teaching/">How to Build a Brain from Scratch</a></li>
+            <li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/">Don't Call Yourself a Programmer, And Other Career Advice *</a></li>
+            <li><a href="https://haseebq.com/how-not-to-bomb-your-offer-negotiation/">How Not To Bomb Your Offer Negotiation</a></li>
+            <li ><a href="https://static.guim.co.uk/ni/1381763590219/-Some-thoughts-on-education.pdf" data-tip data-for="cummings-tooltip">Some Thoughts on Educational and Political Priorities *</a></li>
           </Collapsible>
-          <Collapsible trigger="Startups >">
-            <li><a href="https://thebootstrappedfounder.com/zero-to-sold/">Zero to Sold</a></li>
+          <ReactToolTip id="cummings-tooltip" type="dark">
+            <p>The author of this paper states disbelief in climate change (as of 2013), a view I do not share.<br /> His primary reason for this is shoddiness of climate research, and research in general, which has proved correct with the ongoing <a href="" className="link-cl">replication crisis</a>.</p>
+          </ReactToolTip>
+          <Collapsible trigger="Startups >" className="cursor-pointer" triggerWhenOpen="Helpful Startup Things" triggerOpenedClassName="font-bold text-xl">
+            <li><a href="https://thebootstrappedfounder.com/zero-to-sold/">Zero to Sold *</a></li>
             <li><a href="https://www.fiveminutefounder.com">Five Minute Founder</a></li>
+            <li><a href="https://nathanbarry.com/wealth-creation/">The Ladders of Wealth Creation *</a></li>
+            <li><a href="https://lauraroeder.com/why-i-quit-trying-to-make-it-work-f905ec5a2eaa">Why I Quit Trying to Make It Work *</a></li>
           </Collapsible>
-          <Collapsible trigger="Psychology and Freedom >">
+          <Collapsible trigger="Psychology and Freedom >" className="cursor-pointer" triggerWhenOpen="Psychology and Freedom" triggerOpenedClassName="font-bold text-xl">
             <li><a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">Big 5 Psychology Traits</a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs">Maslow's Hierarchy of Needs</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs">Maslow's Hierarchy of Needs *</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Dunning–Kruger_effect">Dunning-Kruger Effect</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Mr._Money_Mustache">Mr Money Mustache (FIRE)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Municipal_broadband">Municipal-owned Broadband</a></li>
           </Collapsible>
-          <Collapsible trigger="Hackathons >">
+          <Collapsible trigger="Hackathons >" className="cursor-pointer" triggerWhenOpen="my ego list" triggerOpenedClassName="font-bold text-xl">
             <li><a href="https://hacktech.io">Upcoming: HackTech, <span className="line-through">Pasadena, CA</span> Online due to COVID-19</a></li>
             <li><a href="https://flutterhackathon.com">Flutter Global Hackathon, NYC (compass hq), NY</a></li>
             <li><a href="https://www.bigredhacks.com">BigRedHacks x2, Ithaca, NY</a></li>
@@ -75,15 +91,15 @@ function ListsPage() {
             <li>CSTUY defhacks(), NYC (facebook hq), NY</li>
             <li>Countless others...</li>
           </Collapsible>
-          <Collapsible trigger="Podcasts >">
-            <li><a href="https://www.indiehackers.com/podcast">Indie Hackers</a></li>
+          <Collapsible trigger="Podcasts >" className="cursor-pointer" triggerWhenOpen="Podcasts" triggerOpenedClassName="font-bold text-xl">
+            <li><a href="https://www.indiehackers.com/podcast">Indie Hackers *</a></li>
             <li><a href="https://twimlai.com">TWIML</a></li>
             <li><a href="https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast">Deepmind</a></li>
             <li><a href="https://lexfridman.com/ai/">Artificial Intelligence</a></li>
             <li><a href="https://nav.al">Naval Ravikant's</a></li>
             <li><a href="http://www.fullstackradio.com">Full Stack Radio</a></li>
           </Collapsible>
-          <Collapsible trigger="Books I've read and think have some utility (not neccesarily a full endorsement) >">
+          <Collapsible trigger="Books I've read and think have some utility (not neccesarily a full endorsement) >" className="cursor-pointer" triggerWhenOpen="Books I've read (and think have some sort of value or lesson)" triggerOpenedClassName="font-bold text-xl">
             <li>A Tree Grows in Brooklyn by Betty Smith (intrinsic value)</li>
             <li>Deep Work by Cal Newport (focus and intrinsic value)</li>
             <li>How to win friends and influence people by Dale Carnegie (how to increase impact)</li>
@@ -98,7 +114,7 @@ function ListsPage() {
             <li>Guns, Germs, and Steel by Jared Diamond (how we got to now)</li>
             <li>Never Let Me Go by Kazuo Ishiguro (bio and tech ethics)</li>
           </Collapsible>
-          <Collapsible trigger="Books I need to get to >">
+          <Collapsible trigger="Books I need to get to >" className="cursor-pointer" triggerWhenOpen="Books I've been meaning to read" triggerOpenedClassName="font-bold text-xl">
             <li>Thinking Fast and Slow by Daniel Kahneman (understanding cognition)</li>
             <li>To Have or to Be? by Erich Fromm (essentialism)</li>
             <li>Company of One by Paul Jarvis (is growth always good?)</li>

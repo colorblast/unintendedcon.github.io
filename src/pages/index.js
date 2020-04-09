@@ -96,7 +96,7 @@ function IndexPage() {
                     My Startup Timeline
                   </Link>
                 </li>
-                <li>
+                {/*<li>
                   <Link to="" className="link-cl">
                     How to Frame The World
                   </Link>
@@ -115,15 +115,18 @@ function IndexPage() {
                   <Link to="" className="link-cl">
                     Accountability, Branding, and the Extension of the Self
                   </Link>
-                </li>
+                </li>*/}
               </ul>
             </div>
             <div className="side-overlay flex-1 p-4">
               <h3 className="text-xl">
                 Newsletter
               </h3>
-              <form>
-
+              <form className="inline-block" action="https://tinyletter.com/reallyidk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reallyidk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+                  <label for="tlemail" className="inline-block">You get the blog + extra thoughts + my link roundup</label><br />
+                  <input type="text" name="email" id="tlemail" className="inline-block focus:shadow-outline" placeholder="Your best email" /><br />
+                  <input type="hidden" value="1" name="embed" />
+                  <input type="submit" value="Subscribe" className="my-2 px-2 bg-green-100 hover:bg-green-500" />
               </form>
             </div>
           </div>

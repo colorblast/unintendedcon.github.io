@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'ET Book';
+    src: url("../fonts/et-book-roman-line-figures.woff") format("woff2");
+}
+
 body {
+    font-family: "ET Book", serif;
+}
+
+.logo {
     font-family: "Poppins", sans-serif;
 }
 
@@ -11,5 +20,5 @@ body {
 }
 
 .side-overlay {
-    background: #E5D8B4;
+    background: #B7F4C4;
 }
