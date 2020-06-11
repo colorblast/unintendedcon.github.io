@@ -11,7 +11,7 @@ jobs:
           steps:
             - run: yarn install
             - run: yarn build
-            - run: gh-pages -d public -b master
+            - run: yarn push
 workflows:
     build-and-test:
       jobs:

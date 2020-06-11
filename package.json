@@ -48,7 +48,8 @@
       "start": "npm run develop",
       "stage": "git push staging master",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
+    "push": "gh-pages -d public -b master"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "2.14.0",
