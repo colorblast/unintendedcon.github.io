@@ -2,10 +2,10 @@ version: 2.1
 orbs:
   node: circleci/node@1.1.6
 jobs:
-  branches:
-    ignore:
-      - master
   build-and-test:
+    branches:
+    only:
+      - develop
     executor:
       name: node/default
     steps:
