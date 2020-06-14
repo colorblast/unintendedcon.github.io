@@ -18,4 +18,5 @@ fields:
   name: keywords
   label: keywords
 pages:
+- src/posts/on-growth.md
 - src/posts/rights-vs.privileges.md
