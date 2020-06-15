@@ -9,20 +9,20 @@ keywords:
 - marketing
 
 ---
-It used to be the case that when you tried to download any sort of software and look at any sort of internet article, you'd see ads in every single space conceivable. There'd be ads on the top, on the left and right sidebars, on the bottom. There'd be popups and possibly even full screen ads.
+It used to be the case that when you tried to download any sort of software and look at any sort of internet article, you'd see [ads in every single space conceivable](https://digiday.com/media/the-webs-worst-ad-clutter-offenders/). There'd be ads on the top, on the left and right sidebars, on the bottom. There'd be popups and possibly even full screen ads.
 
 Although that's still the case for some of the most obnoxious sites out there, we can probably say with some great degree of certainty that this sort of advertising is on the decline. As people realize that advertising clogs up bandwidth, spreads malware, tracks you, and makes for a terrible UI, it should come as no surprise that ad blocker usage has risen.
 
-Attempts to counter adblockers is fruitless, as counter ad block technology  gets reverse-engineered and eventually blocked also. Some advertising companies, namely Google, are trying to circumvent this through the browser market, where they provide a default ad blocker that whitelists Google's own ads.
+Attempts to counter adblockers are fruitless, as counter ad block technology gets [reverse-engineered](https://github.com/Mechazawa/FuckFuckAdblock) and eventually blocked also. Some advertising companies, namely Google, are trying to circumvent this through the browser market, where they provide a default ad blocker that whitelists Google's own ads.
 
 Ads as they were before provide no advantages to the people who are served them. As such, services and media has increasingly moved towards a subscription model, where the consumer and the producer are more aligned incentive-wise as the consumer is paying to ensure quality of content. There is no third party involved.
 
-Advertising remains a huge need, however, given the amount of businesses and services there are. Google remains a hugely profitable business because the demand is there.
+Advertising remains a huge need, however, given the amount of businesses and services there are. Google remains a hugely profitable business because the [demand is there](https://www.iab.com/news/u-s-digital-ad-revenue-climbs-to-57-9-billion-in-first-half-2019/).
 
 If we look at the consumer side, there is also, believe it or not, a desire for advertising. Provided this service or thing is actually useful to the consumer, service advertising actually makes a consumer's life easier.
 
 We can now see that there needs to be a clear utility function. Personalized ads achieve that. What does that mean?
 
-This does not mean extensive user profiling nor does it mean user tracking. We've seen time and time again that we can get general aggregate profiles from a limited set of data nodes, the Kolmogorov Complexity. Ideally, users should be able to provide certain things that they are interested in (which the search engine or site may helpful ask for), which creates a user-controlled advertising profile. This enables the user to retain some control over what sort of advertising she sees, means more money for the website hosting the advertising (more clicks and buys), more money for the ad buyer (more buys), and more money for the advertising exchange (more throughput).
+This does not mean extensive user profiling nor does it mean user tracking. We've seen time and time again that we can get general aggregate profiles from a limited set of data nodes, the [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity). Ideally, users should be able to provide certain things that they are interested in (which the search engine or site may helpful ask for), which creates a user-controlled advertising profile. This enables the user to retain some control over what sort of advertising she sees, means more money for the website hosting the advertising (more clicks and buys), more money for the ad buyer (more buys), and more money for the advertising exchange (more throughput).
 
-By ceding some control of what advertising is seem, advertising begins to turn into a sort of marketplace. Given  that the Internet is increasingly adopting the subscription model and throwing up walled gardens everywhere, I think this sort of advertising remains a compelling thought experiment or what-if.
+By ceding some control of what advertising is seem, advertising begins to turn into a sort of marketplace. Given that the Internet is increasingly adopting the subscription model and throwing up walled gardens everywhere, I think this sort of advertising remains a compelling thought experiment or what-if.
