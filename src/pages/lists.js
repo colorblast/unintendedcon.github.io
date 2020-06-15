@@ -113,12 +113,13 @@ function ListsPage() {
             <li>Zero To One (contrarianism, understanding tribalism, and startup building)</li>
             <li>Guns, Germs, and Steel by Jared Diamond (how we got to now)</li>
             <li>Never Let Me Go by Kazuo Ishiguro (bio and tech ethics)</li>
+            <li>Company of One by Paul Jarvis (is growth always good?)</li>
+            <li>Rework by David Heinmeiner Hansson and Jason Fried (long hours is not productive)</li>
+            <li>Manufacturing Consent by Noam Chomsky and Edward Herman (media is entangled with power)</li>
           </Collapsible>
           <Collapsible trigger="Books I need to get to >" className="cursor-pointer" triggerWhenOpen="Books I've been meaning to read" triggerOpenedClassName="font-bold text-xl">
             <li>Thinking Fast and Slow by Daniel Kahneman (understanding cognition)</li>
             <li>To Have or to Be? by Erich Fromm (essentialism)</li>
-            <li>Company of One by Paul Jarvis (is growth always good?)</li>
-            <li>Rework by David Heinmeiner Hansson and Jason Fried (long hours is not productive)</li>
             <li>Leadership and Self-Deception by the Arbringer Institute (recommended by some guy in MicroConf Connect)</li>
             <li>Fooled by Randomness by Nassim Nicholas Taleb (the argument against the quant and statistical approach)</li>
             <li>Skin in the Game by Nassim Nicholas Taleb (incentive alignment)</li>
@@ -127,12 +128,25 @@ function ListsPage() {
             <li>Presence by Amy Cuddy (application of perception and reality are entangled)</li>
             <li>Learned Optimism by Martin Seligman (recommended by Laurie Santos, The Science of Well-Being)</li>
             <li>Who Rules the World by Noam Chomsky</li>
-            <li>Manufacturing Consent by Noam Chomsky and Edward Herman (media is entangled with power)</li>
             <li>Bad Samaritans by Ha-Joon Chang (late-stage capitalism)</li>
             <li>Range by David Epstein (interdisciplinary is the future)</li>
             <li>2 Billion Under 20 by Stacey Ferreira and Jared Kleinert (we have ever-pressing challenges; we are rising to solve them)</li>
             <li>Bullshit Jobs: A Theory by David Graeber (with COVID-19 we really know which jobs are essential)</li>
             <li>Refactoring UI by Adam Wathan and Steve Schoger (technical book on design for devs)</li>
+            <li>Utopia for Realists by Rutger Bregman</li>
+            <li>Transcend by Scott Barry Kaufman</li>
+            <li>The Art of Doing Science and Engineering by Richard Hamming</li>
+            <li>The Innovator's Dilemma by Clayton M Christensen</li>
+            <li>Weird by Olga Kazan</li>
+            <li>Antifragile by Nassim Nicholas Taleb (what do with black swan situations)</li>
+            <li>Models of My Life by Herbert Simon (Simon is an interdisciplinary guy)</li>
+            <li>Letters to a Young Contrarian by Christopher Hitchens (on patrick collison's bookshelf)</li>
+            <li>Discrimination and Disparities by Thomas Sowell</li>
+            <li>Austerity: The History of a Dangerous Idea by Mark Blyth</li>
+            <li>The Case Against Education by Bryan Caplan</li>
+            <li>The Coddling of the American Mind by Greg Lukianoff and Jonathan Haidt</li>
+            <li>Hate Inc by Matt Taibbi</li>
+            <li>Capital in the Twenty-First Century by Thomas Piketty</li>
           </Collapsible>
         </div>
       </section>
