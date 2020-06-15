@@ -110,20 +110,20 @@ function ListsPage() {
             <li>The Third Door by Alex Banayan (break social conditioning)</li>
             <li>The World is Flat by Thomas Friedman (globalism and remote work)</li>
             <li>The Mom Test by Rob Fitzpatrick (how to understand people and their problems)</li>
-            <li>Zero To One (contrarianism, understanding tribalism, and startup building)</li>
+            <li>Zero To One (contrarianism, understanding tribalism, and startup building; master's online notes are much better though)</li>
             <li>Guns, Germs, and Steel by Jared Diamond (how we got to now)</li>
             <li>Never Let Me Go by Kazuo Ishiguro (bio and tech ethics)</li>
             <li>Company of One by Paul Jarvis (is growth always good?)</li>
             <li>Rework by David Heinmeiner Hansson and Jason Fried (long hours is not productive)</li>
             <li>Manufacturing Consent by Noam Chomsky and Edward Herman (media is entangled with power)</li>
+            <li>Fooled by Randomness by Nassim Nicholas Taleb (the argument against the quant and statistical approach)</li>
+            <li>The Black Swan by Nassim Nicholas Taleb (with coronavirus, this is a must-read)</li>
           </Collapsible>
           <Collapsible trigger="Books I need to get to >" className="cursor-pointer" triggerWhenOpen="Books I've been meaning to read" triggerOpenedClassName="font-bold text-xl">
             <li>Thinking Fast and Slow by Daniel Kahneman (understanding cognition)</li>
             <li>To Have or to Be? by Erich Fromm (essentialism)</li>
             <li>Leadership and Self-Deception by the Arbringer Institute (recommended by some guy in MicroConf Connect)</li>
-            <li>Fooled by Randomness by Nassim Nicholas Taleb (the argument against the quant and statistical approach)</li>
             <li>Skin in the Game by Nassim Nicholas Taleb (incentive alignment)</li>
-            <li>The Black Swan by Nassim Nicholas Taleb (with coronavirus, this is a must-read)</li>
             <li>Crossing the Chasm by Geoffrey Moore (understanding the stages of startups)</li>
             <li>Presence by Amy Cuddy (application of perception and reality are entangled)</li>
             <li>Learned Optimism by Martin Seligman (recommended by Laurie Santos, The Science of Well-Being)</li>
@@ -134,19 +134,22 @@ function ListsPage() {
             <li>Bullshit Jobs: A Theory by David Graeber (with COVID-19 we really know which jobs are essential)</li>
             <li>Refactoring UI by Adam Wathan and Steve Schoger (technical book on design for devs)</li>
             <li>Utopia for Realists by Rutger Bregman</li>
-            <li>Transcend by Scott Barry Kaufman</li>
-            <li>The Art of Doing Science and Engineering by Richard Hamming</li>
+            <li>Transcend by Scott Barry Kaufman (humanism + growth)</li>
+            <li>The Art of Doing Science and Engineering by Richard Hamming (collison's book shelf + recommended everywhere)</li>
             <li>The Innovator's Dilemma by Clayton M Christensen</li>
-            <li>Weird by Olga Kazan</li>
+            <li>Weird by Olga Kazan (neurodivergence)</li>
             <li>Antifragile by Nassim Nicholas Taleb (what do with black swan situations)</li>
             <li>Models of My Life by Herbert Simon (Simon is an interdisciplinary guy)</li>
             <li>Letters to a Young Contrarian by Christopher Hitchens (on patrick collison's bookshelf)</li>
-            <li>Discrimination and Disparities by Thomas Sowell</li>
-            <li>Austerity: The History of a Dangerous Idea by Mark Blyth</li>
-            <li>The Case Against Education by Bryan Caplan</li>
+            <li>Discrimination and Disparities by Thomas Sowell (disparities don't necessarily mean discrimination)</li>
+            <li>Austerity: The History of a Dangerous Idea by Mark Blyth (austerity doesn't work)</li>
+            <li>The Case Against Education by Bryan Caplan (universities are economically unfeasible)</li>
             <li>The Coddling of the American Mind by Greg Lukianoff and Jonathan Haidt</li>
-            <li>Hate Inc by Matt Taibbi</li>
-            <li>Capital in the Twenty-First Century by Thomas Piketty</li>
+            <li>Hate Inc by Matt Taibbi (why polarization happens)</li>
+            <li>Capital in the Twenty-First Century by Thomas Piketty (why wealth inequality happens)</li>
+            <li>The Power Broker by Robert Caro ()</li>
+            <li>The Fountainhead by Ayn Rand (individualism)</li>
+            <li>Traction by Gabriel Weinberg (startup growth)</li>
           </Collapsible>
         </div>
       </section>
