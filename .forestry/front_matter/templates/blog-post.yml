@@ -20,5 +20,6 @@ fields:
 pages:
 - src/posts/notes-on-black-swan-theory.md
 - src/posts/on-growth.md
+- src/posts/on-linearity.md
 - src/posts/rights-vs.privileges.md
 - src/posts/the-case-for-personalized-ads.md
