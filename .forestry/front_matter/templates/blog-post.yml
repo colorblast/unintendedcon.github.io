@@ -18,6 +18,7 @@ fields:
   name: keywords
   label: keywords
 pages:
+- src/posts/getting-psycopg2-working-on-solus.md
 - src/posts/notes-on-black-swan-theory.md
 - src/posts/on-growth.md
 - src/posts/on-linearity.md
