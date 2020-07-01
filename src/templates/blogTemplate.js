@@ -30,7 +30,8 @@ const BlogPost = (props) => {
     $("p").addClass("mt-8 leading-loose")
     $("blockquote").addClass("border-l-4 border-gray-300 font-serif leading-loose pl-4 text-justify")
     $("a").addClass("text-gray-700 font-bold bg-red-400")
-    $("code").addClass("bg-gray-900")
+    $("code").addClass("bg-orange-200")
+    $("code").addClass("text-orange-700")
 
     return (
         <Layout>
