@@ -59,7 +59,9 @@ function ListsPage() {
             <li><a href="https://humaninformationprocessing.com/teaching/">How to Build a Brain from Scratch</a></li>
             <li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/">Don't Call Yourself a Programmer, And Other Career Advice *</a></li>
             <li><a href="https://haseebq.com/how-not-to-bomb-your-offer-negotiation/">How Not To Bomb Your Offer Negotiation</a></li>
-            <li ><a href="https://static.guim.co.uk/ni/1381763590219/-Some-thoughts-on-education.pdf" data-tip data-for="cummings-tooltip">Some Thoughts on Educational and Political Priorities *</a></li>
+          <li ><a href="https://static.guim.co.uk/ni/1381763590219/-Some-thoughts-on-education.pdf" data-tip data-for="cummings-tooltip">Some Thoughts on Educational and Political Priorities *</a></li>
+	  <li><a href="https://liora.substack.com/p/how-citizen-journalism-and-education">How Citizen Journalism & Education Reform Can Save Us From Bad Science *</a></li>
+	  <li><a href="https://fredrikdeboer.com/2020/07/10/the-irresistible-force-vs-the-ironized-object/">The irresistible force vs the ironized object * (principles vs postmodernism)</a></li>
           </Collapsible>
           <ReactToolTip id="cummings-tooltip" type="dark">
             <p>The author of this paper states disbelief in climate change (as of 2013), a view I do not share.<br /> His primary reason for this is shoddiness of climate research, and research in general, which has proved correct with the ongoing <a href="" className="link-cl">replication crisis</a>.</p>
