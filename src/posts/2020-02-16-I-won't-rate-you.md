@@ -18,6 +18,4 @@ Since the status game is zero sum, it means that the only way to gain status is 
 
 The status game lends itself to either mob mentality or elitism. I don't think that either of those are particularly desirable nor add something significant to the world. It encourages less thinking and reasoning, and more conniving and metagaming.
 
-There's one moment I remember vividly: it was high school graduation and the school photographer was trying to get me to smile. I didn't smile as much then, but that's beside the point. The point is our high school had a rival, and he said an insult about the rival high school in order to get me to smile, and afterwords, I just thought about how he probably does the same exact thing at that high school.
-
 There's too much to do this in this world in terms of fixing problems and just making the world better to gossip, rate, and just hurt other peoples' feelings.

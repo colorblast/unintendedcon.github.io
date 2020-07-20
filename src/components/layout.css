@@ -3,12 +3,17 @@
     src: url("../fonts/et-book-roman-line-figures.woff") format("woff2");
 }
 
+@font-face {
+    font-family: 'Bagnard';
+    src: url("../fonts/Bagnard.otf") format("opentype");
+}
+
 body {
     font-family: "ET Book", serif;
 }
 
-.logo {
-    font-family: "Poppins", sans-serif;
+.logo, header {
+    font-family: "Bagnard", "ET Book", serif;
 }
 
 .layout-bg {

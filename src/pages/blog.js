@@ -1,5 +1,6 @@
 import React from "react";
 import { graphql, useStaticQuery, Link } from 'gatsby';
+import moment from 'moment'
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -19,6 +20,7 @@ function BlogPage() {
                              fields {
                                  slug
                              }
+                             timeToRead
                         }
                     }
                 }
@@ -41,16 +43,20 @@ function BlogPage() {
             These articles tend to concern CS, startups, life, and other things that remotely interest me.
           </p>
           <br />
-        <ol>
+        <div>
             {data.allMarkdownRemark.edges.map((edge) => {
                 return (
-                    <li>
-                        <h2><Link to={"/articles/" + edge.node.fields.slug}>{edge.node.frontmatter.title}</Link></h2>
-                        <p>{edge.node.frontmatter.date}</p>
-                    </li>
+                    <div class="w-full border border-gray-400 py-5">
+                        <h2>
+                          <Link to={"/articles/" + edge.node.fields.slug} class="text-lg">{edge.node.frontmatter.title}</Link>&nbsp;
+                          <i>{edge.node.timeToRead} {edge.node.timeToRead == 1 ? "minute" : "minutes"}</i>
+                        </h2>
+                        
+                        <p>{moment(edge.node.frontmatter.date).isValid() ?  moment(edge.node.frontmatter.date).format("MMMM Do YYYY, h:mm:ss a") : edge.node.frontmatter.date}</p>
+                    </div>
                 )
             })}
-        </ol>
+        </div>
         </div>
       </section>
     </Layout>

@@ -47,7 +47,7 @@ Find a [guiding principle](https://vimeo.com/36579366); mine is increasing choic
 
 MOOCs are upending higher education; just pick one if you can't figure out which one you want.
 
-Use your position as a student as an advantage; people who consider themselves 'adults' tend not to take people under 18 very seriously, and you can find that they can often share information much more freely. Since you're considered a kid, you can take advantage of the fact that people perceive you as pesky, and you can pretty much send cold emails and follow up cold emails without too much lashback.
+Use your position as a student as an advantage; people who consider themselves 'adults' tend to see themselves in you.
 
 Look into assessing your personality so you can get a better sense of what your weaknesses are. My weaknesses are being super narrow-focused on my goals and being anti-social (I have [SAD](https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness/index.shtml)).
 

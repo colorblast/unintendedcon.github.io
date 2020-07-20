@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Range",
+        "author": "David Epstein",
+        "description": "David Epstein examines how one should proceed with one's career, be it specialization or generalization. He goes into kind learning environments, unkind environments, the difference between the two, and the impact of far transfer.",
+        "value": "Creative interdisciplinary work is the future.",
+        "imageURL": "",
+        "notes": ""
+    },
+    {
+        "name": "Zero To One",
+        "author": "Peter Thiel and Blake Masters",
+        "description": "Thiel explains his outlook on life, what he looks for in a successful startup, and how you can take your startup from 0 to 1.",
+        "value": "Contrarianism, Understanding tribalism, startup building. Master's online notes are better though.",
+        "imageURL": "",
+        "notes": ""
+    },
+    {
+        "name": "The Mom Test",
+        "author": "Rob Fitzpatrick",
+        "description": "Rob explains how to gather user feedback, determine what users want, without falling into the traditional pitfalls of self-validation.",
+        "value": "How to understand people and their problems.",
+        "imageURL": "",
+        "notes": ""
+    },
+    {
+        "name": "The Black Swan",
+        "author": "Nassim Nicholas Taleb",
+        "description": "Taleb explains how we have this misguided notion of the bell curve, and how actually outlier events tend to define the narrative vis a vis fat-tailed distributions.",
+        "value": "Thinking in probability.",
+        "imageURL": "",
+        "notes": "/articles/notes-on-black-swan-theory"
+    },
+    {
+        "name": "",
+        "author": "",
+        "description": "",
+        "value": "",
+        "imageURL": "",
+        "notes": ""
+    }
+]

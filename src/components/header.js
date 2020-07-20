@@ -18,7 +18,7 @@ function Header() {
     <header className="z-40">
       <div className="flex flex-wrap items-center justify-between max-w-4xl mx-auto p-4 md:p-8">
         <Link className="flex items-center no-underline header-logo" to="/">
-          <span className="font-bold text-xl tracking-tight logo">
+          <span className="font-black text-2xl tracking-tight logo">
             {site.siteMetadata.title}
           </span>
         </Link>
@@ -45,27 +45,27 @@ function Header() {
           {[
             {
               route: `/goals`,
-              title: `#2020goals`
+              title: `GOALS`
             },
             {
               route: `/lists`,
-              title: `lists`
+              title: `LISTS`
             },
             {
               route: `/blog`,
-              title: `blog`
+              title: `BLOG`
             },
             {
               route: '/photos',
-              title: `photos`
+              title: `PHOTOS`
             },
             {
               route: `/contact`,
-              title: `contact`
+              title: `CONTACT`
             }
           ].map(link => (
             <Link
-              className="block md:inline-block mt-4 md:mt-0 md:ml-6 no-underline text-white"
+              className="block md:inline-block mt-4 md:mt-0 md:ml-6 no-underline font-bold text-sm"
               key={link.title}
               to={link.route}
             >

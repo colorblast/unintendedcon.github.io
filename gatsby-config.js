@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `unintendedcon`,
-    description: `CS, startups, and productivity. Follow the in-progress life story of 19 year old me.`,
+    description: `CS, startups, and productivity. Follow the in-progress life story of 20 year old me.`,
       author: `Jonathan Wong`,
       siteUrl: `https://unintendedcon.github.io`
   },
@@ -10,13 +10,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-tailwind`,
+        name: `unintendedcon`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,
         display: `minimal-ui`,
-        icon: `src/images/tailwind-icon.png`
+        icon: `src/logo/favicon-32x32.png`
       }
     },
     `gatsby-plugin-postcss`,
@@ -34,7 +34,25 @@ module.exports = {
         path: `${__dirname}/src/`,
       }
     },
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-prismjs`,
+        ]
+      }
+    },
+    {
+      resolve: `gatsby-remark-prismjs`,
+      options: {
+        classPrefix: "language-",
+        inlineCodeMarker: null,
+        aliases: {},
+        showLineNumbers: false,
+        noInlineHighlight: false,
+      }
+    },
+    `gatsby-transformer-json`,
     {
       resolve: `gatsby-theme-gallery`,
       options: {

@@ -17,7 +17,7 @@ function IndexPage() {
 
       <section className="">
 
-        <h2 className="text-2xl font-extrabold underline inline-block">
+        <h2 className="text-2xl font-extrabold underline inline-block logo">
           unintendedcon
         </h2>
         <div className="mr-8 my-2">
