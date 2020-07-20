@@ -3,11 +3,11 @@ layout: post
 title: Weird Thoughts About My Future (Relying on History)
 date: 2020-02-13 10:47 -0400
 description: >-
-    - Sometimes it feels like we're predestined to do certain things.
+  - Sometimes it feels like we're predestined to do certain things.
 keywords:
-    - simulation
-    - startups
-    - life
+  - simulation
+  - startups
+  - life
 ---
 
 Over the past couple of months, I've increasingly become partial to the idea that I could be living in a simulation.
@@ -86,7 +86,7 @@ I've listened to a bunch of podcasts and online talks lately, and I feel like I'
 
 My mindset is largely the same in terms of how I approach people. You don't know anything, so when a person entrusts you with the idea that they have, you should value the fact that they've placed this trust in you. You legitimately don't know who will become the next founder.
 
-I came to the conclusion that lists were important *before* reading Sam Altman's blog. I feel like smart people think alike in terms of the structure of their thinking, but apply it in different ways.
+I came to the conclusion that lists were important _before_ reading Sam Altman's blog. I feel like smart people think alike in terms of the structure of their thinking, but apply it in different ways.
 
 ## personal lifestyle
 
@@ -136,7 +136,7 @@ I created this virtual world I called 'game life' since I was like a really youn
 
 There's a David Perell tweet about how one reason people choose to become innovators is because conventional society rejects them. Their value is often underestimated.
 
-I feel this. As someone who really has a bad system one train of thought, I don't really like or do well on tests without serious *serious* preparation. I don't like memorization, especially rote memorization.
+I feel this. As someone who really has a bad system one train of thought, I don't really like or do well on tests without serious _serious_ preparation. I don't like memorization, especially rote memorization.
 
 I also have SAD (maybe aspergers) which means that its hard for me to have in-person presence (there's the psychological fade in conversations) and for me to speak up.
 
@@ -167,11 +167,3 @@ Inside my borough of Queens, I live in the neighborhood of Woodside. Woodside, C
 ## Conclusion
 
 If you find any of this useful, you can [follow](https://twitter.com/suchcaptcha) me on Twitter.
-
-
-
-
-
-
-
-

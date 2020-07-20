@@ -3,11 +3,11 @@ layout: post
 title: Building a Saas Timeline
 date: 2020-01-30 23:54 -0400
 description: >-
-    A timeline of someone building a startup; doesn't know what he's doing.
+  A timeline of someone building a startup; doesn't know what he's doing.
 keywords:
-    - startups
-    - SaaS
-    - open timeline
+  - startups
+  - SaaS
+  - open timeline
 ---
 
 Whenever I see someone accomplish something rather peculiar, the first train of thought for me is not wow, but rather how the fuck did they do it. I'm at the point in creating this business [banh](https://banh.app) where I really don't know what I'm doing, but smart people tell me that nobody really knows what they're doing.
@@ -28,7 +28,7 @@ Whenever I complained about my workload on doctor visits, my pediatrician would 
 
 3. Built an MVP of an online live LaTeX document editor. Stalled. (2018)
 
-This was when I first registered banh's domain name, and put up a simple mailchimp list. I somehow got 15 people to subscribe to it, despite literally no marketing. I ended up getting tangled with college, and progress on the editor stalled. 
+This was when I first registered banh's domain name, and put up a simple mailchimp list. I somehow got 15 people to subscribe to it, despite literally no marketing. I ended up getting tangled with college, and progress on the editor stalled.
 
 4. Abandoned the editor. (2019)
 
@@ -48,7 +48,7 @@ Indie Hackers is an insanely good podcast about how to build something from the 
 
 8. Created a Simplenote idea note (september 2019)
 
-I keep all my ideas in simplenote, another insanely good application.  fast.ai + attending a couple of AI talks had let me to believe I was an AI god despite me knowing jack shit, so I titled my note appropriately:
+I keep all my ideas in simplenote, another insanely good application. fast.ai + attending a couple of AI talks had let me to believe I was an AI god despite me knowing jack shit, so I titled my note appropriately:
 
 > Scheduler which uses ai to best optimize your schedule.
 
@@ -138,7 +138,7 @@ Entire week got burned recovering (+ taking midterms). Next week is making up th
 
 25. The Future.
 
-Get the prototype / necessary features working. Set a subscription model. 
+Get the prototype / necessary features working. Set a subscription model.
 
 Create new features. Release to users. Get feedback. Iterate. Repeat.
 

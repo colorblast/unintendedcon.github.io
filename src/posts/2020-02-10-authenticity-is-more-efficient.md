@@ -3,15 +3,15 @@ layout: post
 title: Authenticity is more  efficient
 date: 2020-02-10 13:08 -0400
 description: >-
-    - Being a startup founder is already hard enough. Having to manage lying, faking, and trauma distracts you from your goals.
+  - Being a startup founder is already hard enough. Having to manage lying, faking, and trauma distracts you from your goals.
 keywords:
-    - innovation
-    - startups
-    - authenticity
-    - principles
+  - innovation
+  - startups
+  - authenticity
+  - principles
 ---
 
-If you're a developer, you're no doubt familiar with the term 'single source of truth'. For state management, you want unidirectional data flow, because things can, *will*. get really messy real fast.
+If you're a developer, you're no doubt familiar with the term 'single source of truth'. For state management, you want unidirectional data flow, because things can, _will_. get really messy real fast.
 
 You should totally apply this to yourself as a person. You should be working to achieve your goals and the easiest way to achieve this is to devote as much of your focus towards doing so. This means that complications such as lying or being manipulative means an extra mental burden.
 
@@ -26,10 +26,3 @@ If you find yourself dealing with some sort of childhood trauma, you should take
 ## Conclusion
 
 If you find this content useful, in even the slightest, I'd appreciate an email simply expressing 'thanks'! I'm building an app called [banh](https://banh.app) to help you manage your burnout, which you might like. You can also [follow](https://twitter.com/suchcaptcha) me on Twitter.
-
-
-
-
-
-
-

@@ -3,13 +3,13 @@ layout: post
 title: Prototyping a SaaS Backend with Responder and EdgeDB
 date: 2020-01-16 21:17 -0400
 description: >-
-    Building a backend is hard, especially when bootstrapping a SaaS. Here's how to handle the auth part, using Responder and EdgeDB.
+  Building a backend is hard, especially when bootstrapping a SaaS. Here's how to handle the auth part, using Responder and EdgeDB.
 keywords:
-    - SaaS
-    - EdgeDB
-    - Authentication
-    - Responder
-    - Python
+  - SaaS
+  - EdgeDB
+  - Authentication
+  - Responder
+  - Python
 ---
 
 This guide is best for people who want to get started with bootstrapping a SaaS in a fast manner, but with a relational database. There are a number of reasons to pick a relational database over a NoSQL database, but we won't go over them here.
@@ -26,7 +26,7 @@ Once you have pipenv set up, you should install our required packages. We will b
 pipenv install responder edgedb validators
 ```
 
-We now have the libraries neccesary for establishing our python API. We can now create a file, called *main.py* to house our API code. It really doesn't matter what this file name is, so feel free to change it.
+We now have the libraries neccesary for establishing our python API. We can now create a file, called _main.py_ to house our API code. It really doesn't matter what this file name is, so feel free to change it.
 
 ```
 touch main.py
@@ -54,7 +54,7 @@ Let's go over this code line by line.
 
 `@api.route("/{greeting}")` declares that this API has an endpoint or route. If you're unsure of what an endpoint is, then think of it as a specific page or pattern of pages. The route we're setting up here is dynamic, and pattern-based. The variable, `greeting` is enclosed in curly brackets to show that this is a dynamic route.
 
-`async def greet_world(req, res, *, greeting):` declares a function that should run when a client (user) visits this endpoint. `greet_world ` takes 4 paramaters, `req`, `res`, `*`, and `greeting`. `req` and `res` stand for request and response, and represent the data coming to the server and the data coming out. `*` is needed because we are using dynamic routes, which require an unknown amount of variables for endpoint patterns. `greeting` is a dynamic variable, which neccesitates `*`.
+`async def greet_world(req, res, *, greeting):` declares a function that should run when a client (user) visits this endpoint. `greet_world` takes 4 paramaters, `req`, `res`, `*`, and `greeting`. `req` and `res` stand for request and response, and represent the data coming to the server and the data coming out. `*` is needed because we are using dynamic routes, which require an unknown amount of variables for endpoint patterns. `greeting` is a dynamic variable, which neccesitates `*`.
 
 `resp.text = f"{greeting}, world!` modifies the response object such that it's text will return a dynamic message based off `greeting`. You can learn more about request and response objects at [requests](https://requests.readthedocs.io/en/master/).
 
@@ -66,7 +66,7 @@ We can now save this file and test to see whether our endpoint is working.
 
 `pipenv run python3 main.py`
 
-The default port that responder uses is *5042*, on localhost. You should be able to find it at `localhost:5042/<some greeting you put in>`.
+The default port that responder uses is _5042_, on localhost. You should be able to find it at `localhost:5042/<some greeting you put in>`.
 
 Now knowing that's working, we're going to shift towards setting up the database, before resuming working on the endpoints.
 
@@ -140,11 +140,12 @@ CREATE MIGRATION  users TO {
 COMMIT MIGRATION users;
 COMMIT;
 ```
+
 I just threw alot at you, so I'll go over it line by line.
 
 `START TRANSACTION` enables us to modify or change the schema.
 
-`CREATE MIGRATION users TO {` is where we declare a data migration *users*, that is a change to the schema.
+`CREATE MIGRATION users TO {` is where we declare a data migration _users_, that is a change to the schema.
 
 ```
 type User {
@@ -176,7 +177,7 @@ You can then start the migration / schema from the beginning again.
 
 <hr>
 
-Quitting the edgedb console is as simple as `\q `.
+Quitting the edgedb console is as simple as `\q`.
 
 ## Further API Setup
 
@@ -233,10 +234,10 @@ If you'd like to return a different status code, you can change the number that'
 
 The next step of validation is ensuring that whatever sent actually is what it's supposed to be. For **/signup** and **/login** that means two parameters.
 
-* email
-* passwordHash
+- email
+- passwordHash
 
-We need to make sure that *email* is actually an email. We can also impose a length max for *passwordHash* to ensure no flooding.
+We need to make sure that _email_ is actually an email. We can also impose a length max for _passwordHash_ to ensure no flooding.
 
 This is where [**validators**](https://validators.readthedocs.io/en/latest/), the library I mentioned earlier, comes in. It's a no nonsense fast way to validate stuff, and isn't as complicated as other popular validation schema libraries.
 

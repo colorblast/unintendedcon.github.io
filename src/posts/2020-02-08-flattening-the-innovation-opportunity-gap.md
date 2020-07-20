@@ -3,12 +3,12 @@ layout: post
 title: Flattening the Innovation Opportunity Gap / My Personal Advice
 date: 2020-02-08 16:24 -0400
 description: >-
-    - Innovators tend to be distributed in a rather geographically flat fashion, in contrast to resources, culture, and capital, which is disproportionately clustered in only a few areas.
+  - Innovators tend to be distributed in a rather geographically flat fashion, in contrast to resources, culture, and capital, which is disproportionately clustered in only a few areas.
 keywords:
-    - innovation
-    - socioeconomics
-    - startups
-    - advice
+  - innovation
+  - socioeconomics
+  - startups
+  - advice
 ---
 
 Being an innovator is hard in it of itself. You have to not only think of an idea, you have to go out and convince people it's a good idea. You have to make sure its the right people too; these people have to have the means to pay or finance whatever you are building. You have to work on marketing/sales, developing your product, iteration, and clearing regulatory hurdles. There's a bunch of legal paperwork; there's grant-writing; there's a whole host of things that you have to deal with.
@@ -77,9 +77,4 @@ Haven't gotten to this point yet. Give me a couple of years.
 
 ## Conclusion
 
-If you feel this content is helpful in any sort of way, you can send me a simple email telling me you appreciate it. I don't run analytics on this blog, so I have no idea what content my audience is looking for. You can also follow me on [Twitter](https://twitter.com/suchcaptcha). 
-
-
-
-
-
+If you feel this content is helpful in any sort of way, you can send me a simple email telling me you appreciate it. I don't run analytics on this blog, so I have no idea what content my audience is looking for. You can also follow me on [Twitter](https://twitter.com/suchcaptcha).

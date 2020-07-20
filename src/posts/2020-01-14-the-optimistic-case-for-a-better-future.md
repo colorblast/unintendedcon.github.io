@@ -3,14 +3,14 @@ layout: post
 title: The Optimist's Case for A Better Future
 date: 2020-01-14 18:13 -0400
 description: >-
-    A Grand Unified Theory for why the world might actually be getting better. A case for Enlightenment 2.0.
+  A Grand Unified Theory for why the world might actually be getting better. A case for Enlightenment 2.0.
 keywords:
-    - Grand Unified Theory
-    - Optimism
-    - Freedom
-    - Technology
-    - Philosophy
-    - Urbanism
+  - Grand Unified Theory
+  - Optimism
+  - Freedom
+  - Technology
+  - Philosophy
+  - Urbanism
 ---
 
 TLDR: I'm trying to create waitbutwhy like content. The future looks bright.
@@ -69,11 +69,11 @@ Thus, economic recession should lead to greater net benefits, in that it makes u
 
 ## Automation and UBI
 
-John Maynard Keynes famously predicted that by the year 2000, we would have 15 hour workweeks. This has clearly not happened,  and it’s very intriguing to explore what went wrong.
+John Maynard Keynes famously predicted that by the year 2000, we would have 15 hour workweeks. This has clearly not happened, and it’s very intriguing to explore what went wrong.
 
 For one, it appears that most of us ascribe most of our value to our work. When we choose to describe ourselves to other people, the thing that comes out first is most often our occupation.
 
-There is nothing inherently wrong with that. But it’s driven this sort of workaholism, whereby people derive and feel like they have no reason to be here, except to fill their designated role. This, despite, a large chunk of people, reportedly feel dissatisfied about their jobs. To further explore this, you should read *Bullshit Jobs* by David Graeber.
+There is nothing inherently wrong with that. But it’s driven this sort of workaholism, whereby people derive and feel like they have no reason to be here, except to fill their designated role. This, despite, a large chunk of people, reportedly feel dissatisfied about their jobs. To further explore this, you should read _Bullshit Jobs_ by David Graeber.
 
 We should reconsider our definition of Hell. If one is forced to do something that one feel no pleasure or happiness in doing, is one in Hell?
 
@@ -99,10 +99,10 @@ Political apathy stems from many factors, not all of which I’ll address here. 
 
 Problem -> Hope -> Hope Crushed -> Fight back / Be Apathetic
 
-For the majority of Americans, politics can seem very disconnected from our lives, in the sense that these policies are never read by any of us, and don’t seem to have any direct implications. Occasionally, one comes up that is in our own self-interest. Whether you are for the proposal or against the proposal, it is often the case that the outcome is not what you want, and you are left in a heightened emotional state. You now have two options. 
+For the majority of Americans, politics can seem very disconnected from our lives, in the sense that these policies are never read by any of us, and don’t seem to have any direct implications. Occasionally, one comes up that is in our own self-interest. Whether you are for the proposal or against the proposal, it is often the case that the outcome is not what you want, and you are left in a heightened emotional state. You now have two options.
 
-* You can fight back
-* You can accept the results
+- You can fight back
+- You can accept the results
 
 This continuously happens until slowly we are divided into extremes. We either have very politically active people or people who have endured enough political foolery that they simply do not care anymore. They choose to distance themselves from an outcome even beforehand, in order to limit any emotional trauma that can come from being invested in the event. This isn’t necessarily bad for your health. But for the state of the nation, especially given that voting is kinda full of friction already, its pretty bad.
 
@@ -111,6 +111,7 @@ The thing is that whenever things get too terribly bad, it tends to lead previou
 Current voting initiatives and the fact that this generation should be smarter also seem to point to increased voter turnout and political efficacy.
 
 ## Diversity
+
 America and the world is getting more diverse. Interracial marriages are more common especially given the strides we’ve made in affordable travel and transit.
 
 It’s projected that the average American will look much differently in 2050. Now the rest of world is not necessarily like America. The United States is unique in that we seized a bunch of land from some people, kicked them out to small areas of land, and reduced their population until they were a significant minority.

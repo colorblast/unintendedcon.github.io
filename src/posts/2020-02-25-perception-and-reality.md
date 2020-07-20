@@ -3,11 +3,11 @@ layout: post
 title: Perception and Reality
 date: 2020-02-25 15:02 -0400
 description: >-
-    - Perception and reality are very much intertwined. They're not quite the same, but they overlap often enough that it may seem so.
+  - Perception and reality are very much intertwined. They're not quite the same, but they overlap often enough that it may seem so.
 keywords:
-    - perception
-    - reality
-    - life
+  - perception
+  - reality
+  - life
 ---
 
 I've been sick the past week, so I was unable to create any new blog posts during this duration of time.
@@ -29,4 +29,3 @@ When it comes to some particular areas, areas where we are highly tribalistic, t
 ## marginalized groups / identity politics
 
 ## distinguishment between the individual and the systemic
-

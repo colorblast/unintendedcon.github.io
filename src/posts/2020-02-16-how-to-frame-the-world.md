@@ -3,12 +3,12 @@ layout: post
 title: How To Frame The World
 date: 2020-02-16 22:00 -0400
 description: >-
-    - We argue with each other so much. But why?
+  - We argue with each other so much. But why?
 keywords:
-    - life
-    - philosophy
-    - science
-    - categorization
+  - life
+  - philosophy
+  - science
+  - categorization
 ---
 
 THIS IS A WIP DRAFT AND IS NOWHERE NEAR FINISHED.
@@ -23,7 +23,7 @@ That's super grim and as much as I entertained the notion, I like my theory bett
 
 I struggled with depression a couple of years ago. The act of waking up and proceeding with the day felt like torture and I couldn't really feel anything. I didn't feel like I had anyone to rant to.
 
-One thing that made me feel better about my depression was discovering Allie Brosh's webcomic [*Hyperbole and a Half*](https://hyperboleandahalf.blogspot.com). The comics are super funny, not just for the wholesomeness (and meme material), but also the relatability and accurate depiction of depression. Brosh dropped out of the public sphere a couple of years ago, and so when looking for more material, I found [this talk](https://www.youtube.com/watch?v=Kl8_g72zEUQ) by her on this JoCo Cruise.
+One thing that made me feel better about my depression was discovering Allie Brosh's webcomic [_Hyperbole and a Half_](https://hyperboleandahalf.blogspot.com). The comics are super funny, not just for the wholesomeness (and meme material), but also the relatability and accurate depiction of depression. Brosh dropped out of the public sphere a couple of years ago, and so when looking for more material, I found [this talk](https://www.youtube.com/watch?v=Kl8_g72zEUQ) by her on this JoCo Cruise.
 
 In the talk, Brosh states how we often represent ourselves as reductionized forms of ourselves, say a triangle. She then draws a bunch of zig-zags and swirls and things that this language cannot really represent or define, over that triangle, to represent what a human is.
 
@@ -41,7 +41,7 @@ Audiophiles no doubt, have noticed a difference between listening to a digital r
 
 The world, in a sense, can only be understood by us compressing this analog information into imperfect digital information. Although this information is imperfect, its usable information. Here's a somewhat decent analogy: think of a human as a computer with only so much space. Since we have so many interactions, by nature, we have to compress a bunch of these files in order to retain their memories.
 
-We create digital categories for how we represent information. We apply heuristics and pattern-matching to determine what a chair is. In biology, we apply taxonomy to create classes of animals. In education, we come up with different mental models of students. In politics, we have different tents and umbrellas for different ideologies. 
+We create digital categories for how we represent information. We apply heuristics and pattern-matching to determine what a chair is. In biology, we apply taxonomy to create classes of animals. In education, we come up with different mental models of students. In politics, we have different tents and umbrellas for different ideologies.
 
 ## trust
 
@@ -59,7 +59,7 @@ This was something that afflicted the Mercator Projection, where certain countri
 
 To understand things, in science, we most commonly use models. There are many interactions, so we rely on things like environmental models to emulate the interactions between things like the sun, our atmosphere, the clouds, and plants.
 
-Climate change gets disputed because 
+Climate change gets disputed because
 
 ### politics
 
@@ -74,6 +74,7 @@ It fails to account for voter apathy or for people who simply don't like any of 
 In the creation of the spectrum, much like the compression of an image from a physical setting, value is lost, and some of it is critical.
 
 --- DRAFT ENDS HERE
+
 ## human life is limited
 
 Human life is finite. We have only so much life and thus, [only so much time](https://waitbutwhy.com/2014/05/life-weeks.html). This means we are resource-constrained to make the most of it. We'd like our lives to be fulfulling, to have some sort of purpose or value, however we define it. It can mean many things. For some people, this purpose is status or power. For others, its intrinsic value (the act of existing). It could be relational. It doesn't matter for the purpose of this thought experiment.
@@ -87,7 +88,3 @@ The way we've been able to do this is through communication. There are many medi
 The thing is, it's a known phenomenon that linguistics has its limitations. Bilingual people are most familiar with this, where they may have one concept or thing that is easily able to be expressed in one language, but cannot quite be expressed in the other.
 
 When we entertain the age-old philosophy question of what exactly is a chair, we cannot quite define what a chair is. We have a good sense of heuristics, a good sense of the characteristics of a chair, but no quite clear rule.
-
-
-
-

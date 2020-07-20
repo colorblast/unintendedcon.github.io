@@ -8,17 +8,24 @@ function PhotosPage() {
   return (
     <Layout>
       <SEO
-        keywords={[`photos`, `jonathan wong`, `unintendedcon`, `reallyidk`, `suchcaptcha`]}
+        keywords={[
+          `photos`,
+          `jonathan wong`,
+          `unintendedcon`,
+          `reallyidk`,
+          `suchcaptcha`
+        ]}
         title="Photos"
       />
 
       <section className="flex flex-col md:flex-row items-center">
         <div className="w-full text-gray-900">
-          <h2 className="text-3xl">
-            Photos
-          </h2>
+          <h2 className="text-3xl">Photos</h2>
           <p>
-            I used to be against photography given that overdoing it often leads to the diminishing of the actual experience. I realize that pictorial representations are often better at telling a person's story however.
+            I used to be against photography given that overdoing it often leads
+            to the diminishing of the actual experience. I realize that
+            pictorial representations are often better at telling a person's
+            story however.
           </p>
           <br />
           <Gallery />

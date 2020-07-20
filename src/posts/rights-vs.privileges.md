@@ -4,16 +4,14 @@ title: Rights vs. Privileges
 date: 2020-06-11T20:01:00Z
 description: The way we frame our discourse matters.
 keywords:
-- discourse
-
----
-Recent discourse during these troubling times has been around black lives and the criminal justice system.
+  - discourse
+---Recent discourse during these troubling times has been around black lives and the criminal justice system.
 
 The killing of George Floyd, Breonna Taylor, Ahmaud Aubury and countless others has been a persistent and systemic failure in how we prosecute, support, and arraign cops who flout justice.
 
 I think most people agree with this.
 
-Nevertheless, I am troubled by the way we frame this difference (black lives are much more at risk than that of white lives). One  of the terms I hear most often is 'white privilege'.
+Nevertheless, I am troubled by the way we frame this difference (black lives are much more at risk than that of white lives). One of the terms I hear most often is 'white privilege'.
 
 If we arguably look at what government is supposed to do, the original purpose of it was to maintain a monopoly on violence. In order to prevent total anarchy and to ensure activities could happen, all violence was relinquished to the government. In it, we placed hope for justice and retribution should something befall us. In fact, that's what we expected. We could expect to continue normal activities without fear of something happening to us, because we knew if something did, the government would theoretically go after our assailant.
 

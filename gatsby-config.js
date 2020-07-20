@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `unintendedcon`,
     description: `CS, startups, and productivity. Follow the in-progress life story of 20 year old me.`,
-      author: `Jonathan Wong`,
-      siteUrl: `https://unintendedcon.github.io`
+    author: `Jonathan Wong`,
+    siteUrl: `https://unintendedcon.github.io`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -30,36 +30,34 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: "src",
-        path: `${__dirname}/src/`,
+        name: `src`,
+        path: `${__dirname}/src/`
       }
     },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          `gatsby-remark-prismjs`,
-        ]
+        plugins: [`gatsby-remark-prismjs`]
       }
     },
     {
       resolve: `gatsby-remark-prismjs`,
       options: {
-        classPrefix: "language-",
+        classPrefix: `language-`,
         inlineCodeMarker: null,
         aliases: {},
         showLineNumbers: false,
-        noInlineHighlight: false,
+        noInlineHighlight: false
       }
     },
     `gatsby-transformer-json`,
     {
       resolve: `gatsby-theme-gallery`,
       options: {
-        basePath: "/photos/",
+        basePath: `/photos/`
       }
     },
-      `gatsby-plugin-offline`,
-      `gatsby-plugin-sitemap`,
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-sitemap`
   ]
 };

@@ -1,29 +1,30 @@
 @font-face {
-    font-family: 'ET Book';
-    src: url("../fonts/et-book-roman-line-figures.woff") format("woff2");
+  font-family: "ET Book";
+  src: url("../fonts/et-book-roman-line-figures.woff") format("woff2");
 }
 
 @font-face {
-    font-family: 'Bagnard';
-    src: url("../fonts/Bagnard.otf") format("opentype");
+  font-family: "Bagnard";
+  src: url("../fonts/Bagnard.otf") format("opentype");
 }
 
 body {
-    font-family: "ET Book", serif;
+  font-family: "ET Book", serif;
 }
 
-.logo, header {
-    font-family: "Bagnard", "ET Book", serif;
+.logo,
+header {
+  font-family: "Bagnard", "ET Book", serif;
 }
 
 .layout-bg {
-    background: #FBF2DA;
+  background: #fbf2da;
 }
 
 .layout-overlay {
-    background: #F9EBC4;
+  background: #f9ebc4;
 }
 
 .side-overlay {
-    background: #B7F4C4;
+  background: #b7f4c4;
 }

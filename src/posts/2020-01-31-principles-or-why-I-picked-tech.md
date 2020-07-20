@@ -3,13 +3,13 @@ layout: post
 title: My Guiding Principle (spoiler, it's choice)
 date: 2020-01-31 00:29 -0400
 description: >-
-    - Guiding principles are important for implicit motivation, something that Bret Victor explains. My guiding principle is choice.
+  - Guiding principles are important for implicit motivation, something that Bret Victor explains. My guiding principle is choice.
 keywords:
-    - tech
-    - philosophy
-    - life
-    - bret victor
-    - inventing on principle
+  - tech
+  - philosophy
+  - life
+  - bret victor
+  - inventing on principle
 ---
 
 I was listening to the latest episode of Indie Hackers, where Courtland interviewed [Webflow's](https://webflow.com) founder Vlad Magdalin. Magdalin mentioned how he consistently tries to run his company based off his principles, and referenced one particular video, [inventing on principle](https://www.youtube.com/watch?v=PUv66718DII) by Bret Victor. I had previously used Victor's library tangle before, but I had never listenened to his talk.
@@ -22,13 +22,13 @@ In politics, there should be more viable alternatives than the current 2 party s
 
 ## Tech and Choice
 
-We've seen that with every major revolution, tech has brought more choice. 
+We've seen that with every major revolution, tech has brought more choice.
 
-With the Agricultural Revolution, we saw the rise of a class of people who didn't have to hunt or gather to make a living. Increased food production allowed occupations like blacksmiths, merchants, and engineers to exist. 
+With the Agricultural Revolution, we saw the rise of a class of people who didn't have to hunt or gather to make a living. Increased food production allowed occupations like blacksmiths, merchants, and engineers to exist.
 
 The Enlightenment and the printing press enabled the spread of so much knowledge. This spread enabled more people the choice to absorb this knowledge and do unprecedented things with it. Farmers had the choice to optimize to use the latest agricultural practices. More kids could see something like scientist as a viable career path.
 
-With the Industrial Revolution, we see the rise of transportation-related occupations in order to better serve the rail networks. We see more urban areas with more facilities and options for people to pick from. 
+With the Industrial Revolution, we see the rise of transportation-related occupations in order to better serve the rail networks. We see more urban areas with more facilities and options for people to pick from.
 
 The Internet Age has brought unparalled mass communication and knowledge spread. I can instantly communicate and work with people in Poland or Italy or Texas from where I am (New York).
 
@@ -45,7 +45,3 @@ Banh is being created because the calendar market is kinda like this. Everyone r
 My target audience is people who are in tight situations, where there is X amount of work that has to be done in order to achieve a certain goal, and that can't be avoided. This amount of work and stress can destroy a person's life. Things like sleep schedules can be messed up. Conflicts can occur, particularly in families. There can be signficant mental, physical, and emotional damage.
 
 I don't think there is quite a calendar that helps someone specifically deal with this problem, despite 23% of Americans reporting feeling burnt out. Given the advancements made in other industries (Superhuman for email, Figma for design), I think its time that the calendar worked with you, instead of against you, to achieve your designated goals.
-
-
-
-

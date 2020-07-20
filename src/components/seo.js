@@ -57,8 +57,8 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: metaDescription
         },
         {
-          name: 'google-site-verification',
-          content: 'QdsDyjRqmPbvXdHsBhERu19L8gm8hQ0e-12qx1cFbCY'
+          name: `google-site-verification`,
+          content: `QdsDyjRqmPbvXdHsBhERu19L8gm8hQ0e-12qx1cFbCY`
         }
       ]
         .concat(

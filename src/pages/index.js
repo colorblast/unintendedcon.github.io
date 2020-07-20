@@ -1,98 +1,215 @@
-import React from "react"
-import ReactToolTip from 'react-tooltip'
+import React from "react";
+import ReactToolTip from "react-tooltip";
 
-import { Link } from "gatsby"
+import { Link } from "gatsby";
 
-import IndexLayout from "../components/index"
-import SEO from "../components/seo"
-import '../css/index.css'
+import IndexLayout from "../components/index";
+import SEO from "../components/seo";
+import "../css/index.css";
 
 function IndexPage() {
   return (
     <IndexLayout>
       <SEO
-        keywords={[`unintendedcon`, `reallyidk`, `jonathan wong`, `suchcaptcha`]}
+        keywords={[
+          `unintendedcon`,
+          `reallyidk`,
+          `jonathan wong`,
+          `suchcaptcha`
+        ]}
         title="Home"
       />
 
       <section className="">
-
         <h2 className="text-2xl font-extrabold underline inline-block logo">
           unintendedcon
         </h2>
         <div className="mr-8 my-2">
           <h3 className="text-xl">
-            <span data-tip data-for="startups-tooltip" className="link-cl inline-block">startups</span>,&nbsp;
-            <span data-tip data-for="cs-tooltip" className="inline-block">CS</span>,&nbsp;
-            <span data-tip data-for="rationalism-tooltip" className="inline-block">rationalism</span>,&nbsp;
-            <span data-tip data-for="philosophy-tooltip" className="inline-block">philosophy</span>,&nbsp;
-            <span data-tip data-for="cogsci-tooltip" className="inline-block">cognitive&nbsp;psychology</span>,&nbsp;
-            <span data-tip data-for="progress-tooltip" className="inline-block">progress</span>,&nbsp;
-            <span data-tip data-for="longform-tooltip" className="inline-block">longform</span>,&nbsp;
-            <span data-tip data-for="governance-tooltip" className="inline-block">governance</span>,&nbsp;
-            <span data-tip data-for="productivity-tooltip" className="inline-block">productivity</span>,&nbsp;
-            <span data-tip data-for="urbanism-tooltip" className="inline-block">urbanism</span>,&nbsp;
-                  a.k.a. &nbsp;
-            <span data-tip data-for="me-tooltip" className="inline-block">Jon's blog</span>
+            <span
+              className="link-cl inline-block"
+              data-for="startups-tooltip"
+              data-tip
+            >
+              startups
+            </span>
+            ,&nbsp;
+            <span className="inline-block" data-for="cs-tooltip" data-tip>
+              CS
+            </span>
+            ,&nbsp;
+            <span
+              className="inline-block"
+              data-for="rationalism-tooltip"
+              data-tip
+            >
+              rationalism
+            </span>
+            ,&nbsp;
+            <span
+              className="inline-block"
+              data-for="philosophy-tooltip"
+              data-tip
+            >
+              philosophy
+            </span>
+            ,&nbsp;
+            <span className="inline-block" data-for="cogsci-tooltip" data-tip>
+              cognitive&nbsp;psychology
+            </span>
+            ,&nbsp;
+            <span className="inline-block" data-for="progress-tooltip" data-tip>
+              progress
+            </span>
+            ,&nbsp;
+            <span className="inline-block" data-for="longform-tooltip" data-tip>
+              longform
+            </span>
+            ,&nbsp;
+            <span
+              className="inline-block"
+              data-for="governance-tooltip"
+              data-tip
+            >
+              governance
+            </span>
+            ,&nbsp;
+            <span
+              className="inline-block"
+              data-for="productivity-tooltip"
+              data-tip
+            >
+              productivity
+            </span>
+            ,&nbsp;
+            <span className="inline-block" data-for="urbanism-tooltip" data-tip>
+              urbanism
+            </span>
+            ,&nbsp; a.k.a. &nbsp;
+            <span className="inline-block" data-for="me-tooltip" data-tip>
+              Jon's blog
+            </span>
           </h3>
 
-          <ReactToolTip id="startups-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="startups-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>I'm trying to get one off the ground right now!</p>
           </ReactToolTip>
-          <ReactToolTip id="cs-tooltip" place="top" type="dark" effect="float">
-            <p>Technology should be a means to an end, rather than the end itself.</p>
+          <ReactToolTip effect="float" id="cs-tooltip" place="top" type="dark">
+            <p>
+              Technology should be a means to an end, rather than the end
+              itself.
+            </p>
           </ReactToolTip>
-          <ReactToolTip id="rationalism-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="rationalism-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>Trying to figure things out...</p>
           </ReactToolTip>
-          <ReactToolTip id="philosophy-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="philosophy-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>Are perception and reality entangled?</p>
           </ReactToolTip>
-          <ReactToolTip id="cogsci-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="cogsci-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>What are our cognitive biases and how do we correct them?</p>
           </ReactToolTip>
-          <ReactToolTip id="progress-tooltip" place="top" type="dark" effect="float">
-            <p>Progress has stagnated across the last decade. How can we encourage sustainable growth?</p>
+          <ReactToolTip
+            effect="float"
+            id="progress-tooltip"
+            place="top"
+            type="dark"
+          >
+            <p>
+              Progress has stagnated across the last decade. How can we
+              encourage sustainable growth?
+            </p>
           </ReactToolTip>
-          <ReactToolTip id="longform-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="longform-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>How do we discover knowledge with limited attention spans?</p>
           </ReactToolTip>
-          <ReactToolTip id="governance-tooltip" place="top" type="dark" effect="float">
-            <p>How do we effectively create a more equitable and sustainable society for all?</p>
+          <ReactToolTip
+            effect="float"
+            id="governance-tooltip"
+            place="top"
+            type="dark"
+          >
+            <p>
+              How do we effectively create a more equitable and sustainable
+              society for all?
+            </p>
           </ReactToolTip>
-          <ReactToolTip id="productivity-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip
+            effect="float"
+            id="productivity-tooltip"
+            place="top"
+            type="dark"
+          >
             <p>How can we achieve flow?</p>
           </ReactToolTip>
-          <ReactToolTip id="urbanism-tooltip" place="top" type="dark" effect="float">
-            <p>With cities being the epicenter of everything, how do we ensure and maintain livability?</p>
+          <ReactToolTip
+            effect="float"
+            id="urbanism-tooltip"
+            place="top"
+            type="dark"
+          >
+            <p>
+              With cities being the epicenter of everything, how do we ensure
+              and maintain livability?
+            </p>
           </ReactToolTip>
-          <ReactToolTip id="me-tooltip" place="top" type="dark" effect="float">
+          <ReactToolTip effect="float" id="me-tooltip" place="top" type="dark">
             <p>My home base, if you will.</p>
           </ReactToolTip>
         </div>
-
-
       </section>
       <section>
         <div className="leading-loose text-gray-900 mt-6">
           <div className="flex layout-overlay">
             <div className="w-1/2 p-4">
-              <h3 className="text-xl">
-                New here? Start here.
-              </h3>
+              <h3 className="text-xl">New here? Start here.</h3>
               <ul>
                 <li>
-                  <Link to="articles/2020-02-13-when-metrics-replace-the-target" className="link-cl">
+                  <Link
+                    className="link-cl"
+                    to="articles/2020-02-13-when-metrics-replace-the-target"
+                  >
                     When Metrics Replace The Target
                   </Link>
                 </li>
                 <li>
-                  <Link to="articles/2020-02-10-authenticity-is-more-efficient" className="link-cl">
+                  <Link
+                    className="link-cl"
+                    to="articles/2020-02-10-authenticity-is-more-efficient"
+                  >
                     Authenticity is More Efficient
                   </Link>
                 </li>
                 <li>
-                  <Link to="articles/2020-01-30-saas-outline-from-the-beginning" className='link-cl'>
+                  <Link
+                    className="link-cl"
+                    to="articles/2020-01-30-saas-outline-from-the-beginning"
+                  >
                     My Startup Timeline
                   </Link>
                 </li>
@@ -119,54 +236,58 @@ function IndexPage() {
               </ul>
             </div>
             <div className="side-overlay flex-1 p-4">
-              <h3 className="text-xl">
-                Newsletter
-              </h3>
-              <form className="inline-block" action="https://tinyletter.com/reallyidk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reallyidk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-                  <label for="tlemail" className="inline-block">You get the blog + extra thoughts + my link roundup</label><br />
-                  <input type="text" name="email" id="tlemail" className="inline-block focus:shadow-outline" placeholder="Your best email" /><br />
-                  <input type="hidden" value="1" name="embed" />
-                  <input type="submit" value="Subscribe" className="my-2 px-2 bg-green-100 hover:bg-green-500" />
+              <h3 className="text-xl">Newsletter</h3>
+              <form
+                action="https://tinyletter.com/reallyidk"
+                className="inline-block"
+                method="post"
+                onsubmit="window.open('https://tinyletter.com/reallyidk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+                target="popupwindow"
+              >
+                <label className="inline-block" for="tlemail">
+                  You get the blog + extra thoughts + my link roundup
+                </label>
+                <br />
+                <input
+                  className="inline-block focus:shadow-outline"
+                  id="tlemail"
+                  name="email"
+                  placeholder="Your best email"
+                  type="text"
+                />
+                <br />
+                <input name="embed" type="hidden" value="1" />
+                <input
+                  className="my-2 px-2 bg-green-100 hover:bg-green-500"
+                  type="submit"
+                  value="Subscribe"
+                />
               </form>
             </div>
           </div>
           <div className="flex mt-8 text-center">
             <div className="flex-1 layout-overlay">
-              <Link to="blog">
-                Blog
-              </Link>
+              <Link to="blog">Blog</Link>
             </div>
             <div className="flex-1 side-overlay">
-              <Link to="projects">
-                Projects
-              </Link>
+              <Link to="projects">Projects</Link>
             </div>
             <div className="flex-1 layout-overlay">
-              <Link to="books">
-                Books
-              </Link>
+              <Link to="books">Books</Link>
             </div>
             <div className="flex-1 side-overlay">
-              <Link to="about">
-                About
-              </Link>
+              <Link to="about">About</Link>
             </div>
           </div>
           <div className="flex mt-8 text-center">
             <div className="flex-1 layout-overlay">
-              <Link to="lists">
-                Lists
-              </Link>
+              <Link to="lists">Lists</Link>
             </div>
             <div className="flex-1 side-overlay">
-              <Link to="goals">
-                Goals
-              </Link>
+              <Link to="goals">Goals</Link>
             </div>
             <div className="flex-1 layout-overlay">
-              <Link to="contact">
-                Socials
-              </Link>
+              <Link to="contact">Socials</Link>
             </div>
           </div>
         </div>

@@ -3,11 +3,11 @@ layout: post
 title: Don't pull a Theranos kids
 date: 2020-02-11 15:23 -0400
 description: >-
-    - Why I named my blog the way that I did. Failure is an option.
+  - Why I named my blog the way that I did. Failure is an option.
 keywords:
-    - innovation
-    - transparency
-    - failure
+  - innovation
+  - transparency
+  - failure
 ---
 
 I was recently looking at case studies of technology companies and I stumbled upon a [video](https://www.youtube.com/watch?time_continue=5146&v=YJx-cU9CKLI&feature=emb_logo) from the Stanford McCoy Family Center on Ethics in Society.
@@ -34,12 +34,10 @@ On the other hand, you can have a scenario like Theranos. I have no doubt that E
 
 The problem with Theranos is this inability to accept failure. Progress has been shown time and time again to be non-linear, with certain times to have great spurts, and other times to be more middling. There are times when progress can feel like its moving backwards. As much as I can understand Holmes given her position, it doesn't excuse the fact that she didn't take the time to step back, realize what she was doing, what it's consequences were, and how that would impact millions of Americans.
 
-It got to the point where the company she ran, Theranos, hired these investigators to follow said whistleblowers. The goal of technology is to make the world a better place, and one should take a good deal of time to examine the facts objectively, from *tabula rasa*, instead of getting caught up in the moment and self-rationalizing every single action made.
+It got to the point where the company she ran, Theranos, hired these investigators to follow said whistleblowers. The goal of technology is to make the world a better place, and one should take a good deal of time to examine the facts objectively, from _tabula rasa_, instead of getting caught up in the moment and self-rationalizing every single action made.
 
 Constant communication and transparency with all stakeholders should happen, in order to prevent incidents like this from ever happening again.
 
 ## Conclusion
 
 If you find this content useful, even in the slightest, I'd appreciate it if you sent an email expressing this. I don't run analytics on this blog, so I'm unable to determine who's visiting or what type of content said person likes. I'm working on a smart calendar called [banh](https://banh.app) if you'd like to take a look at it. I'm working on building a [Twitter](https://twitter.com/suchcaptcha) following, so I'd also appreciate it if you followed me there.
-
-

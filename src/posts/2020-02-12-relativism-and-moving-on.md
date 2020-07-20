@@ -3,10 +3,10 @@ layout: post
 title: Relativism and moving on
 date: 2020-02-12 16:30 -0400
 description: >-
-    - Don't get caught up in the past. It wears you down.
+  - Don't get caught up in the past. It wears you down.
 keywords:
-    - relativism
-    - moving on
+  - relativism
+  - moving on
 ---
 
 There's a Google Zeitgeist [talk](https://www.youtube.com/watch?v=7J-wCHDJYmo) about the lack of follow-through on STEM degrees in America. Malcolm Gladwell makes an argument that despite elite colleges being bastions of brilliance (with the funding to boot), the STEM dropout rate is largely the same.
@@ -17,7 +17,7 @@ I take a few issues with that. Funding. Inspiration. The fact that I don't reall
 
 ## trying to do too much
 
-You know these people. Chances are, if you're reading this, that you *are* one of these people.
+You know these people. Chances are, if you're reading this, that you _are_ one of these people.
 
 You get As in class, despite cutting half of them, so that you can also do NSF and Intel-Siemens research. You tote your bottles of Soylent everywhere, stating that you, yes you!, simply don't have 15 minutes of time to eat lunch. You do band, pre-med society, and are the president of some book club that exists in theory, but really only meets once a year for the GIM. When someone asks you how the fuck you do all this stuff, while maintaining coursework, tutoring underprivileged kids, and volunteering for Red Cross, you state
 
@@ -50,8 +50,3 @@ There's alot of assumptions that we learn early on from our parents, peers, and 
 ## Conclusion
 
 I'm not quite sure where I went with this post, but if you feel like this stuff resonates, even a little bit, I'd appreciate an email. I don't run analytics on this blog, so I have no idea what content you like. You can also [follow](https://twitter.com/suchcaptcha) me on Twitter.
-
-
-
-
-

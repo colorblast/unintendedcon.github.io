@@ -3,10 +3,10 @@ layout: post
 title: When Metrics Become the Target (or how the education system fails us)
 date: 2020-02-13 18:47 -0400
 description: >-
-    - How vigilantly using metrics (Goodhart's Law) can actually be negative and fully replace what it was intended to help do.
+  - How vigilantly using metrics (Goodhart's Law) can actually be negative and fully replace what it was intended to help do.
 keywords:
-    - metric fatigue
-    - education
+  - metric fatigue
+  - education
 ---
 
 I've been reading some David Perell stuff recently and I wanted to summarize some stuff he had + an interview he had with Mason Hartman.
@@ -65,12 +65,10 @@ Everybody seemed super knowledgeable and I just felt like that would be an envir
 
 The problem is that this is one college with a distinctive name brand and track record. There are, for sure, many colleges, that I've never ever heard of and for which I know almost nothing about.
 
-Although we wanted places for learning, we reduced it to a single metric, acceptance rate. **Acceptance rate combined with grades, being the measures, makes the original goal of learning cease to exist.** 
+Although we wanted places for learning, we reduced it to a single metric, acceptance rate. **Acceptance rate combined with grades, being the measures, makes the original goal of learning cease to exist.**
 
 It is weird in the sense that we actually learn more from the jobs that we take than from the schooling system. The schooling system arguably has one goal: to faciliate the development of individuals to do what they want to do. It absolutely fails at that.
 
 ## Conclusion
 
 If you find this content provocative, you can send me an email or dm me on [twitter](https://twitter.com/suchcaptcha) or [keybase](https://keybase.io/reallyidk).
-
-

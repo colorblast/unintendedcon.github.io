@@ -44,15 +44,15 @@ Once we've got these libraries installed, we'll need to update our `gatsby-confi
 This config tells gatsby-transformer-remark that it has the prismjs plugin. The `classPrefix` option enables gatsby-remark-prismjs to be language-agnostic. We can now import prism.
 
 ```javascript
-import "prismjs"
-import "prismjs/components/prism-python"
-import "prismjs/components/prism-bash"
+import "prismjs";
+import "prismjs/components/prism-python";
+import "prismjs/components/prism-bash";
 ```
 
 By default, prism comes with javascript, c-like, markdown, svg, and rss. We can import various language packs as we need them from the components folder. We can now add the stylesheet to achieve code highlighting. I recommend this excellent [syntax theme generator](https://k88hudson.github.io/syntax-highlighting-theme-generator/www/). Once you have a stylesheet picked, download it, and throw it into a folder. It can be static, it can be a dedicated css folder; it doesn't really matter. You can now import it.
 
 ```javascript
-import '../prism/prism-theme.css'
+import "../prism/prism-theme.css";
 ```
 
 And you're set!

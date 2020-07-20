@@ -2,14 +2,13 @@
 layout: post
 title: Getting psycopg2 working on Solus
 date: 2020-06-30T23:43:00Z
-description: Not as easy as it sounds. <Libpq-fe.h> is not quite where you think it
+description:
+  Not as easy as it sounds. <Libpq-fe.h> is not quite where you think it
   is.
 keywords:
-- python
-- development
-
----
-If you're working on any sort of fullstack project, you're likely to encounter postgres. And if you're working in python with a framework like sanic, responder, or django, you're likely to encounter it's python driver psycopg2.
+  - python
+  - development
+---If you're working on any sort of fullstack project, you're likely to encounter postgres. And if you're working in python with a framework like sanic, responder, or django, you're likely to encounter it's python driver psycopg2.
 
 If you attempt to install a django project, you'll get this error.
 

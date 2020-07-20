@@ -2,14 +2,12 @@
 layout: post
 title: The Case For Personalized Ads
 date: 2020-06-15T20:23:00Z
-description: 'Shocker: Ads aren''t always a bad thing.'
+description: "Shocker: Ads aren't always a bad thing."
 keywords:
-- personalization
-- advertising
-- marketing
-
----
-It used to be the case that when you tried to download any sort of software and look at any sort of internet article, you'd see [ads in every single space conceivable](https://digiday.com/media/the-webs-worst-ad-clutter-offenders/). There'd be ads on the top, on the left and right sidebars, on the bottom. There'd be popups and possibly even full screen ads.
+  - personalization
+  - advertising
+  - marketing
+---It used to be the case that when you tried to download any sort of software and look at any sort of internet article, you'd see [ads in every single space conceivable](https://digiday.com/media/the-webs-worst-ad-clutter-offenders/). There'd be ads on the top, on the left and right sidebars, on the bottom. There'd be popups and possibly even full screen ads.
 
 Although that's still the case for some of the most obnoxious sites out there, we can probably say with some great degree of certainty that this sort of advertising is on the decline. As people realize that advertising clogs up bandwidth, spreads malware, tracks you, and makes for a terrible UI, it should come as no surprise that ad blocker usage has risen.
 

@@ -3,9 +3,9 @@ layout: post
 title: I Won't Rate You
 date: 2020-02-16 22:17 -0400
 description: >-
-    - There's a ton of rating that happens with our algorithms. I like to think of myself as at least somewhat humanistic, so no I won't rate you. Also, it means that I don't play the status games.
+  - There's a ton of rating that happens with our algorithms. I like to think of myself as at least somewhat humanistic, so no I won't rate you. Also, it means that I don't play the status games.
 keywords:
-    - status games
+  - status games
 ---
 
 One of my core beliefs is that I won't rate you. I can tell you how well or bad you are doing at something, but I will not rate you in some listicle thing or fashion. I won't tell you a number from 1 to 10 for how attractive you are or where you stand on some top 30 list. It really doesn't matter to me, because you are you. You and I have better things to do.

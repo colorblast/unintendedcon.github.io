@@ -3,10 +3,10 @@ layout: post
 title: Notes On Cal Newport's Deep Work
 date: 2020-01-17 06:40 -0400
 description: >-
-    Deep work is uninterrupted blocks of time where we achieve greater levels of efficiency and productivity. Here are my notes on Cal Newport's book that makes your productivity better.
+  Deep work is uninterrupted blocks of time where we achieve greater levels of efficiency and productivity. Here are my notes on Cal Newport's book that makes your productivity better.
 keywords:
-    - productivity
-    - deep work
+  - productivity
+  - deep work
 ---
 
 I just finished up reading Cal Newport's [Deep Work](https://www.calnewport.com/books/deep-work/) and am summarizing what I got from it here.
@@ -35,9 +35,9 @@ Makes the case that school periods should be longer I guess. Also really influen
 
 **Split your deep work time blocks with small shallow work interludes**. I think I'm pretty good at deep work actually, but I often overextended myself over the **ideal 4 hour time block**. After dumping 6 hours+ on something, there really are **diminishing returns** and I can fall into a shallow work timesink.
 
-**Don't confuse busyness with productivity.** The knowledge world can often have work that doesn't exactly have a finished product, something that you can easily attest to when you are a craftsman or farmer. This can often mean that people tend to attempt to derive their worth from shallow  work.
+**Don't confuse busyness with productivity.** The knowledge world can often have work that doesn't exactly have a finished product, something that you can easily attest to when you are a craftsman or farmer. This can often mean that people tend to attempt to derive their worth from shallow work.
 
-Apparently the working knowledge worker world really burns your time in meetings and emails. Haven't had that experience so far, but I've just been an intern ¯\_(ツ)_/¯.
+Apparently the working knowledge worker world really burns your time in meetings and emails. Haven't had that experience so far, but I've just been an intern ¯\_(ツ)\_/¯.
 
 ## Principle of Least Resistance (PLR)
 
@@ -59,7 +59,7 @@ Baumeister psychology study where it showed that anxiety is decreased and fulfil
 
 **No one ever really says bye online**. Yes, if you're taking a vacation or some sort of extended stay physically, but otherwise no. It's like this superlong, never-ending conversation. It's clearly an attention hack.
 
-I believe that there is definitely some good that can come from conversation termination. **The expectation that this social media setting creates is that if someone sends a message, they are expected to reply back, and not just reply back, but *reply back immediately*. This is bad for deep work.**
+I believe that there is definitely some good that can come from conversation termination. **The expectation that this social media setting creates is that if someone sends a message, they are expected to reply back, and not just reply back, but _reply back immediately_. This is bad for deep work.**
 
 The key metric for many apps is engagement, which means increased attention and time spent on the app. There is this psychological twist, whereby if you don't receive a reply back, you feel hurt or anxious. We've been conditioned to expect immediate replies back as the new norm.
 

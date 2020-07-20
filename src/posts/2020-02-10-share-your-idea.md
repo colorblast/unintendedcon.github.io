@@ -3,15 +3,15 @@ layout: post
 title: Share Your Startup Idea
 date: 2020-02-10 12:33 -0400
 description: >-
-    - Ideas are useless without execution. No, I won't sign your NDA.
+  - Ideas are useless without execution. No, I won't sign your NDA.
 keywords:
-    - innovation
-    - startups
+  - innovation
+  - startups
 ---
 
 When I first started building things, I was very hesitant to share them with people. An idea can feel like your own personal thing; I think some people say that you treat it like your child; I'm not entirely sure if that comparison is correct, but it's somewhat along that line of thought.
 
-The thing is, just by sheer probability, there probably was / is a person who had the same exact idea as you. The odds of you having a truly unique idea that will revolutionize the world is fairly low. 
+The thing is, just by sheer probability, there probably was / is a person who had the same exact idea as you. The odds of you having a truly unique idea that will revolutionize the world is fairly low.
 
 Ideas also need to be exposed to public discourse in order to determine viability. It's ok if you choose to proceed and ignore what some people say, as long as you go through the process first. You cannot make an informed decision about an idea without some form of exposure to your target audience.
 
@@ -22,6 +22,3 @@ This makes things like NDAs for startups almost completely useless. Markets are 
 ## Conclusion
 
 If you find this content at all useful, you can send me an email expressing your thanks. I don't run analytics on this blog, so I have no idea who is reading this or what content they like. If you like, you can [follow](https://twitter.com/suchcaptcha) me on Twitter.
-
-
-

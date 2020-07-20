@@ -3,10 +3,10 @@ layout: post
 title: Bootstrapping Banh, a smart calendar
 date: 2020-01-04 12:14 -0400
 description: >-
-    Banh is a smart calendar app that utilizes the deep working methodology and data to make you more productive.
+  Banh is a smart calendar app that utilizes the deep working methodology and data to make you more productive.
 keywords:
-    - productivity
-    - startups
+  - productivity
+  - startups
 ---
 
 TLDR: I created a smart calendar called [banh](https://banh.app) and you should sign up for it.
@@ -19,11 +19,11 @@ These tools approach the same problem from two different perspectives. This prob
 
 A calendar approaches this by recognizing that many of us follow a daily, monthly, even weekly routine. It knows that these events are largely the same day to day and should really be programmed in at the beginning. This tends to be very helpful for things like classes or weekly meetings.
 
-The todo list approaches this problem differently. The question  the todo list asks itself, is what stuff *matter*? The todo list is deliberately not large in order to enable a person to quickly scan said list and determine what item gets what priority. Things like labels to sort these items are often included in most modern todo list software. This tends to be beneficial to people who have to deal with a large amount of tasks, with varying priorities and relation.
+The todo list approaches this problem differently. The question the todo list asks itself, is what stuff _matter_? The todo list is deliberately not large in order to enable a person to quickly scan said list and determine what item gets what priority. Things like labels to sort these items are often included in most modern todo list software. This tends to be beneficial to people who have to deal with a large amount of tasks, with varying priorities and relation.
 
 I find that these approaches could still be improved. Now, don’t get me wrong, they’re still very useful. If they weren’t, people wouldn’t use them. I just find them to be an imperfect solution, trying to fit a square peg into a circular hole.
 
-Let’s do this through the examination of the CRUD associated with both a calendar and a todo list. CRUD stands for Create, Read, Update, and Delete and is a term that is often associated  with computer science and its related data structures. The use of a specific data structure carries with it, a unique set of CRUD operations, which fit different use cases. For example, a company like Netflix would probably care about having high Read and Update for its movie library given that its library is constantly changing and subscribers expect fast load times.
+Let’s do this through the examination of the CRUD associated with both a calendar and a todo list. CRUD stands for Create, Read, Update, and Delete and is a term that is often associated with computer science and its related data structures. The use of a specific data structure carries with it, a unique set of CRUD operations, which fit different use cases. For example, a company like Netflix would probably care about having high Read and Update for its movie library given that its library is constantly changing and subscribers expect fast load times.
 
 A calendar like GCal has slow create, due to the fact that it requires a high degree of user interaction. The user needs to create the event, its description, and its formalities. A calendar has very fast read, however, especially given that almost all of them automate their push notifications. Update is slow because a time has to be picked out, requiring the status of the event to be changed. Delete is moderate, given that it is fast for singular events, but not so much for events that have unique time schedules and recurrences.
 
@@ -39,7 +39,7 @@ What if we combined the best features of the two? That’s how I arrived at banh
 
 1. Calendar rigidity
 
-The reason for why calendars have such a high update is the event’s association to a given timeslot. Banh introduces a new feature, called the *event library* which contains these events, irrespective of when they happen or what slot time they occur at. This means that the create operation takes a little longer, since it means adding the event to the event library, before adding it to the calendar, but it significantly offloads   rescheduling. This is helpful for dealing with real life meetings and appointments, which are often rescheduled.
+The reason for why calendars have such a high update is the event’s association to a given timeslot. Banh introduces a new feature, called the _event library_ which contains these events, irrespective of when they happen or what slot time they occur at. This means that the create operation takes a little longer, since it means adding the event to the event library, before adding it to the calendar, but it significantly offloads rescheduling. This is helpful for dealing with real life meetings and appointments, which are often rescheduled.
 
 Another upshot of this approach is that with this increased flexibility, you can schedule in things that better meet what you hope to achieve, bringing up the next point.
 
@@ -55,7 +55,7 @@ I’m a New Yorker and have experienced my fair share of cold weather up here. T
 
 I’m skeptical of voice tech. I don’t really use Google assistant and from what I know, voice tech is really limited to Alexa and some basic commands.
 
-I think a large reason behind this lack of use of voice tech is  that there is no 10x bonus. A product generally has to be at least 10x better than an established competitor in order to achieve market traction. Why would someone bother to use Google Assistant to search for something when they could use Google itself? Is tapping the Assistant button and speaking the words any better than tapping the search button and typing them? I think voice tech fares much better when you can say
+I think a large reason behind this lack of use of voice tech is that there is no 10x bonus. A product generally has to be at least 10x better than an established competitor in order to achieve market traction. Why would someone bother to use Google Assistant to search for something when they could use Google itself? Is tapping the Assistant button and speaking the words any better than tapping the search button and typing them? I think voice tech fares much better when you can say
 
 > banh reschedule meeting with Alex from today to tomorrow at 9am.
 
@@ -73,7 +73,7 @@ Banh will have a robust stats page, designed to help you make the most of the da
 
 7. Ethical
 
-*Your data is your data.* I strongly believe in privacy and not making money from harvesting your data. Your app data will not be shared with third parties.
+_Your data is your data._ I strongly believe in privacy and not making money from harvesting your data. Your app data will not be shared with third parties.
 
 I’m currently relying on Mailchimp for audience building. I may change that soon.
 

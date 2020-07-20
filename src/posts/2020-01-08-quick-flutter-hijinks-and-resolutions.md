@@ -3,10 +3,10 @@ layout: post
 title: Quick Flutter Hijinks and Resolutions
 date: 2020-01-08 18:26 -0400
 description: >-
-    Flutter setup can be a real pain, given that it's still relatively new software. Here are some solutions to common issues.
+  Flutter setup can be a real pain, given that it's still relatively new software. Here are some solutions to common issues.
 keywords:
-    - Flutter
-    - Mobile Development
+  - Flutter
+  - Mobile Development
 ---
 
 I've been playing around with flutter for a couple of months now. Flutter hit its first stable release at the beginning of last year, a landmark occasion. The Flutter NYC community has been tremendous and I truly think that we're going to see a shift towards more reusable codebases.
@@ -20,15 +20,14 @@ Related github links:
 [#39823](https://github.com/flutter/flutter/issues/39823)
 [#39549](https://github.com/flutter/flutter/issues/39549)
 
-
 Flutter is based on dart, which relies on java and the jdk. This is good in the sense that dart has JIT, or just in time compilation. This allows a Flutter app to share a common codebase while maintaining that native look and feel.
 
 In order to set up Flutter, you need to accept a license for a bunch of software that Google and others have made (Android SDK), that ensures that they don't accept liability and that there is no warranty for the software, just general legal compliance stuff, that you zoom through.
 
 This is done through sdkmanager, a tool that comes packaged through android studio. This would normally be fine, but if your java version is not <= 1.8, attempting to accept the license will show some sort of java error. The reason for this is because post-1.8, java removed a series of libraries it felt was unnecessary for future versions. This means that if you want to use flutter, then you have two options.
 
-* Use pre-1.8 java
-* Use latest java, but setup flutter to use the default JDK provided by Android Studio
+- Use pre-1.8 java
+- Use latest java, but setup flutter to use the default JDK provided by Android Studio
 
 I found, in my personal experience, that using flutter on pre-1.8 java to be tremendously buggy. I don't particularly recommend it.
 

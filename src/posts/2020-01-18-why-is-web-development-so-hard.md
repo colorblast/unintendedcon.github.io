@@ -3,15 +3,15 @@ layout: post
 title: Why Is Web Development So Hard?
 date: 2020-01-18 00:29 -0400
 description: >-
-    - Web development, even way later, still feels very hacky. Why is this case, and what can we do about it?
+  - Web development, even way later, still feels very hacky. Why is this case, and what can we do about it?
 keywords:
-    - web development
-    - node.js
-    - dependency hell
-    - steep learning curve
-    - authentication
-    - microservice architecture
-    - snowpack
+  - web development
+  - node.js
+  - dependency hell
+  - steep learning curve
+  - authentication
+  - microservice architecture
+  - snowpack
 ---
 
 READ FIRST: The purpose of this post is not to shame web development (particularly node.js development), but to figure out exactly why it's so hard.
@@ -53,7 +53,7 @@ Many of these articles tended to be old and outdated, and many of them leveraged
 
 I think part of the reason why this problem exists is just due to the rapid pace of javascript's development and the extremely fast ecosystem shift. What was relevant two years ago, is relevant no more. Besides the obvious negatives in that some of the stuff that is learned becomes useless (a pitfall that occurs everywhere in life), it means that anyone attempting to learn web dev probably finds it much harder to do so.
 
-The rapid state has led to so many packages, each attempting to address the pitfalls of the other, maybe making life *slightly better*, and could potentially be called "a hack of hacks". It's also called dependency hell and bloat.
+The rapid state has led to so many packages, each attempting to address the pitfalls of the other, maybe making life _slightly better_, and could potentially be called "a hack of hacks". It's also called dependency hell and bloat.
 
 ## Microservice Architecture
 

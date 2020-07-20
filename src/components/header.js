@@ -1,6 +1,6 @@
 import { graphql, useStaticQuery, Link } from "gatsby";
 import React, { useState } from "react";
-import "./header.css"
+import "./header.css";
 
 function Header() {
   const [isExpanded, toggleExpansion] = useState(false);
@@ -56,7 +56,7 @@ function Header() {
               title: `BLOG`
             },
             {
-              route: '/photos',
+              route: `/photos`,
               title: `PHOTOS`
             },
             {
@@ -76,7 +76,7 @@ function Header() {
       </div>
       <div class="flex">
         <hr className="lg:w-1/4 md:w-1/12 invisible" />
-        <hr className="sm:w-full md:w-5/6 lg:w-2/4"/>
+        <hr className="sm:w-full md:w-5/6 lg:w-2/4" />
       </div>
     </header>
   );
