@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Integrating Svelte (Sapper) with a GraphQL API using `apollo` via SSR 
+title: Integrating Svelte (Sapper) with a GraphQL API using apollo via SSR 
 date: 2020-07-26 16:28 -0400
-description: >-
-  - I source a graphql API using apollo with Svelte and Sapper and tell you how to do so.
+description: I source a graphql API using apollo with Svelte and Sapper and tell you how to do so.
 keywords:
   - apollo
   - graphql
   - svelte
   - sapper
-  - Error: Function called outside component initialization
+  - Function called outside component initialization
 ---
-
 ## Term Explanation
 
 Graphql has been gaining traction and hype since Facebook first released it in 2015. The main draw of it is that you can selectively request what sort of information you want based off what you need. This and the fact that REST is very boilerplate-ish has led to an increase in Graphql's popularity.
