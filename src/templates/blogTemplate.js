@@ -18,6 +18,7 @@ import moment from "moment";
 import "prismjs";
 import "prismjs/components/prism-python";
 import "prismjs/components/prism-bash";
+import "prism-svelte";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";

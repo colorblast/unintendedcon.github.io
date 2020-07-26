@@ -23,6 +23,7 @@
     "gh-pages": "^2.2.0",
     "graphql": "14.5.8",
     "moment": "^2.27.0",
+    "prism-svelte": "^0.4.6",
     "prismjs": "^1.20.0",
     "prop-types": "15.7.2",
     "punycode": "^2.1.1",
