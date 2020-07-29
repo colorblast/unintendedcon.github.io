@@ -45,10 +45,14 @@ export const query = graphql`
 const BlogPost = props => {
   const $ = Cheerio.load(props.data.markdownRemark.html);
   $(`h2`).addClass(`text-3xl mt-8`);
+  $(`h3`).addClass(`text-2xl mt-8`);
+  $(`li`).addClass(`text-lg`);
+  $(`ul > li`).addClass(`mt-2`);
+  $(`ul > li`).addClass(`ml-8`);
   $(`ol`).addClass(`list-decimal mt-8`);
   $(`ul`).addClass(`list-square mt-8`);
   $(`em`).addClass(`italics`);
-  $(`p`).addClass(`mt-8 leading-loose text-lg text-gray-800`);
+  $(`p`).addClass(`leading-loose text-lg text-gray-800 mt-8`);
   $(`blockquote`).addClass(
     `border-l-4 border-gray-300 font-serif leading-loose pl-4 text-justify`
   );
