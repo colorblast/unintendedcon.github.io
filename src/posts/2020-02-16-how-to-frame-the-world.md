@@ -18,6 +18,15 @@ This post is a response to memetic theory. As provocative and interesting as it 
 
 That's super grim and as much as I entertained the notion, I like my theory better. My theory is that the world is complex, our lifespan is limited, and that every single communication / action is fundamentally a tradeoff. The way we are achieving progress is by broadening the choice of actions for future generations. Argument happens because we have limited representations of what are, in actuality, complex spaces. We have not achieved the understanding that we quite seek, but we are working to get there.
 
+Tables of Contents
+
+* things are complicated
+* our models for understanding suck
+* anchoring and needles in a haystack
+* bad actors
+* a truly liquid market
+* pivot to individualism
+
 ## things are complicated
 
 I struggled with depression a couple of years ago. The act of waking up and proceeding with the day felt like torture and I couldn't really feel anything. I didn't feel like I had anyone to rant to.
@@ -84,6 +93,8 @@ In the creation of the spectrum, much like the compression of an image from a ph
 
 We can see this reflected in how politicians appeal to us. Instead of focusing on policy and what they're willing to do for us, they appeal to our emotions and say that the other side is worse instead of trying to be better.
 
+## bad actors
+
 ### media
 
 The media is an elitist institution and has been that way for the past couple centuries. Noam Chomsky explores how media serves as the vanguard of any movement, how it gets to [define what is acceptable discourse](https://en.wikipedia.org/wiki/Manufacturing_Consent), what isn't acceptable discourse, and what exactly is news-worthy.
@@ -113,3 +124,27 @@ Anyways, this news as a product thing clearly has it's flaws. If it's not outrig
 The solution I have towards this is probably something along the lines of just getting rid of for-profit national media altogether. Non-profit outlets like ProPublica do a much better job of reporting anyways. They get national stories by threading local stories together. Something like NPR also does fine.
 
 The concern here is of course, centralization, and the government. If we let the government control the media, are we not enabling straight-up propaganda? Media clearly needs to be supported so who funds it? This is a good reason for Universal Basic Income (UBI), but I digress. We don't necessarily have to have the government fund it, if we as individuals are empowered to do so.
+
+## tribalism
+
+Tribalism and ideological groups are a large reason why our models for understanding suck. Groups don't particularly care about the truth (we can define the truth as some arbitrary linear combination of things that make the world work). They care about examining the entirety of the world through their lens and convincing you that this view is the correct one.
+
+Tribalism is hard to dispel because it has it's benefits. For one, it fosters a sense of community. If everyone in your community share the habit of going to the movies on a particular day, it becomes an exclusive community. Given that there is good reason to believe that our identities are formed not by our similarities, but by our differences, this gives us something to distinguish ourselves by forming an out-group.
+
+A common phenomenon in the social platforms and communities that have been formed on the Internet is that the community tends to be small and tight-knit, but as the the platform grows or acquires some large number of users, the advantages of said community falls apart and the original users leave. The result is that platform is a shell of itself.
+
+We've always had tribalism, but it's grown worse in the age of the Internet. The internet has created gigantic platforms full of plenty of users, some of whom are always definitely going to be bad actors.
+
+As the number of people on social media platforms like Facebook and Twitter eclipse the population of governments, there have been growing calls for Facebook and Twitter to enforce stricter moderation. We'll get back to this when we discuss anchoring and why it's not possible for them do this.
+
+Tribalism ensures that people do not deviate from the consensus viewpoint, regardless of it's validity. I find it hard to believe that in this time period that we've gotten everything right. The probability exists, but I find it shockingly low. If the consensus just a couple decades ago was that gay people should go f*ck themselves, I think there's definitely some stuff wrong with societal consensus right now.
+
+With the Internet, consensus doesn't even necessarily have to be the majority, but rather a small vocal and influential plurality. As long as social media sets the baseline of quality of conversation as super low, arguments and ideas will continually be misrepresented in favor of whatever narrative or agenda the group is pushing.
+
+### incumbency
+
+Capitalism is not inherently bad. There needs to be some level of inequality in order to create a system that has fluidity and the chance of promotion. Capitalism, when under a truly free market, should "grow the pie", that is create technological progress that raises the standards of living for all people. The problem is that this progress has been largely captured by the ones creating it, and is not spreading to the rest of the population. This has not increased quality of living, but decreased it (in America). More of this to come in the economic orthodoxy section.
+
+The problem is that this system has created a very narrow set of 'winners', incumbents that don't really have to do much in order to stay incumbents. With the wealth gap seriously widening, at some point, too much inequality leads to revolution and the tearing down of the whole apparatus.
+
+The problem of incumbency also lies with any sort of organization that is meant to solve a problem.
