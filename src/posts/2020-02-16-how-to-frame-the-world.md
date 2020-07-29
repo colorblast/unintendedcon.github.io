@@ -79,7 +79,7 @@ We can see this push to publish cause significant fraud, as has been [documented
 
 When we also see the fact that there is little to no replication studies being done, with some journals even denying funding for such studies, the cynicism can really start to spread.
 
-The result is that there are so many "experts" and studies out there, enough that one can cherry-pick their favorite views. 
+The result is that there are so many "experts" and studies out there, enough that one can cherry-pick their favorite views.
 
 ### politics
 
@@ -119,7 +119,7 @@ A more important question in terms of the baseline is our deficits, which will b
 
 The media is an elitist institution and has been that way for the past couple centuries. Noam Chomsky explores how media serves as the vanguard of any movement, how it gets to [define what is acceptable discourse](https://en.wikipedia.org/wiki/Manufacturing_Consent), what isn't acceptable discourse, and what exactly is news-worthy.
 
-The problem with media is again it's incentives. For-profit media has two business models right now: ads and subscription. 
+The problem with media is again it's incentives. For-profit media has two business models right now: ads and subscription.
 
 The first is incentivized to get as many clicks as possible on a given article. They also give up a decent amount of creative control to the advertisers as the advertisers are paying for the newspaper to continue to function. This kills reader-alignment and makes it much harder to create content that appeals to both the reader and advertiser. In the end, you often get generic articles that don't really say much about anything.
 
@@ -133,7 +133,7 @@ The journalistic monopoly form is that ideological outlets or fringe outlets wil
 
 As much as journalists claim that they seek the truth and objectivity, journalism has become a product so this monopoly does not satisfy everyone. In the age of social media, we see sites spring up to meet literally every ideological view or way of thinking. Platforms like Facebook and Twitter significantly reduced the friction involved in sharing information, especially emotionally-charged information. This has made it easy for things like fake news to proliferate. It has also created a toxic atmosphere where everyone is so emotionally-charged. This has had real-world effects in the keyboard warrior phenomenon. People are abstracted from the results of their actions and are increasingly not seeking to engage with people they disagree with, but perform and mock said person in front of their audience.
 
-Journalism has fallen by the sword of postmodernism whereby they've deconstructed literally everything that the only way forward is nihilism. Institutions deserve a check and should require accountability, but ironically the people who are supposed to hold them accountable, journalists, don't hold themselves accountable. Fredrik De Boer had an excellent post on this (which he later deleted) called the irresistible force vs. the ironized object. When the media refuses to engage with it's critics, and instead labels them as Big \[whatever\] (which can be true, but doesn't necessarily enage with said criticism), it only increases the number of people who feel alienated by the surrounding media apparatus.
+Journalism has fallen by the sword of postmodernism whereby they've deconstructed literally everything that the only way forward is nihilism. Institutions deserve a check and should require accountability, but ironically the people who are supposed to hold them accountable, journalists, often don't hold themselves accountable. Fredrik De Boer had an excellent post on this (which he later deleted) called the irresistible force vs. the ironized object. When the media refuses to engage with it's critics, and instead labels them as Big \[whatever\] (which can be true, but doesn't necessarily engage with said criticism), it only increases the number of people who feel alienated by the surrounding media apparatus.
 
 This alienation has led to a significant change in the media landscape that is still on-going. We are seeing figures like Joe Rogan fill the gap left by the current media landscape. Podcasting is increasing, newsletters are increasing, decentralized individual media apparatuses are growing. In forming an exclusive media tribe that will only engage on specific stories, that portion of the media becomes irrelevant.
 
@@ -151,9 +151,9 @@ Tribalism and ideological groups are a large reason why our models for understan
 
 Tribalism is hard to dispel because it has it's benefits. For one, it fosters a sense of community. If everyone in your community share the habit of going to the movies on a particular day, it becomes an exclusive community. Given that there is good reason to believe that our identities are formed not by our similarities, but by our differences, this gives us something to distinguish ourselves by forming an out-group.
 
-A common phenomenon in the social platforms and communities that have been formed on the Internet is that the community tends to be small and tight-knit, but as the the platform grows or acquires some large number of users, the advantages of said community falls apart and the original users leave. The result is that platform is a shell of itself.
+A common phenomenon in the social platforms and communities that have been formed on the Internet is that the community tends to be small and tight-knit, but as the platform grows or acquires some large number of users, the advantages of said community falls apart and the original users leave. The result is that platform is a shell of itself.
 
-We've always had tribalism, but it's grown worse in the age of the Internet. The internet has created gigantic platforms full of plenty of users, some of whom are always definitely going to be bad actors.
+We've always had tribalism, but it's grown worse in the age of the Internet. The internet has created gigantic platforms full of plenty of users, some of whom are definitely going to be bad actors.
 
 As the number of people on social media platforms like Facebook and Twitter eclipse the population of governments, there have been growing calls for Facebook and Twitter to enforce stricter moderation. We'll get back to this when we discuss anchoring and why it's not possible for them do this.
 
@@ -170,3 +170,53 @@ The problem is that this system has created a very narrow set of 'winners', incu
 The problem of incumbency also lies with any sort of organization that is meant to solve a problem. An organization that is dedicated towards fighting and eliminating cancer is ironically incentivized to not eliminate it. If cancer were gone, the organization would have to dissolve or shift it's focus to another issue. Funding could dry up. It wouldn't be stable. The safest move is to play it the subscription way, saying that the problem is getting bigger and bigger, and continually milking funders for more and more resources. As bigger organizations are seen as a source of pride for managers ("I have 30 people under me!"), the result is eventually some bloated ineffective mess. Whereas an organization may have been super effective upon it's founding, we see that it follows some form of asymptotic lifetime, such that eventually it does more harm than good.
 
 Incumbent monopolies are an issue in the sense that they do not have any underlying incentive to innovate or change. They have no sense of competition to drive them away from the path of least resistance: charging more and more for the same product, milking as much as possible similar to how private equity works. Just like how prolonged competition results in cost-cutting and decrease in product quality, non-existent competition also results in inferior products. The products that are created have to meet certain standards of compliance or a certain market share in order for the company to consider them. The company's outlook and goals restrict and restrain what can be produced.
+
+## a truly liquid market
+
+### the shroud of our deficits
+
+I don't think people quite realize this, but the market is not "free" if there are no regulations in place. Let's examine why.
+
+For one, humans are notoriously deficit. We need food, water, and shelter on a consistent basis. If we want certain thresholds of living, this also means things like electricity, Internet, healthcare, energy, and other necessities.
+
+Note the word necessities. The demand for these things, as far as I know, will always exist. They form the core building blocks of our society.
+
+This means that a truly free market cannot quite exactly deal with this sort of thing. In a "free" market, hypothetically people will act "rationally" and will do what's in their best interest. If something is a rip-off, then the person will not buy it. If the job doesn't pay enough money, the person will not take it. If the job has severe injury risk, compensation should increase.
+
+If we visualize the demand as a graph, however, we can see that these things are not negotiable, and even if they are, we really shouldn't have it so. Should someone starve themselves in order to keep money for healthcare? Should someone be evicted to maintain groceries on the table?
+
+Regardless of however much is charged, the demand will continue to exist. This creates an environment of scarcity and a culture of safetyism.
+
+In 'Transcend', Scott Barry Kaufman documents this effect as having a boat, but never setting sail. You're too consumed with making sure you don't drown so you don't end up exploring what's possible.
+
+A free-market proponent might counter that certainly some company or organization would come up to provide these things at more affordable costs. This should eventually drive down the prices of everybody else.
+
+There are numerous counters to that. The two obvious ones are monopoly and coordination. Monopolies are entrenched incumbents. They have so much power, that in an environment of either too little regulation or too much regulation, will stomp out everyone else. The other is coordination. If some countries form an oil cartel like OPEC did, then they can maintain control over the prices while demand stays the same.
+
+The other is that these things are resource-based and have an operating price floor for how much a company can charge for it. Companies can make all the optimizations and subsidies that they want, but the end result in the long term is something that requires a fixed profit.
+
+It's well documented how people in war zones suffer terribly. Quality of life is down. Time to think about abstractions is pretty much non-existent because you're never given a time to breath. You have to worry about survival. You cannot focus on understanding or growth or progress when there's gunfire happening outside. While these deficits don't immediately create an environment of terror, they create a system which leads to one, to our society's detriment.
+
+### goodhart's law all over again
+
+Why can't these people just make more money? Why should I have to pay to fund some sort of social safety net so these people can mooch off these hard-earned tax dollars?
+
+Given that the population is super-large, there are bound to be bad actors. Just considering a random distribution of people, skill-sets, and personalities, there will be people with little to no utility. However, when we look at the [statistics](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2017/05/24/what-happens-when-states-go-hunting-for-welfare-fraud), welfare fraud is only around 5% (Pew Research Center). Given that inequality has followed power laws and broadened to the point where the first percentile income class has greater wealth than the bottom ninety-nine, it'd seem to make sense. Arguably, the easiest way to get rid of the fraud is to get rid of mean-testing (UBI), but I digress.
+
+We need to consider what exactly is money. Is money some physical thing that we want in it of itself? Or is it something that functions as proxy for the things that we want?
+
+Outside of a small subset of people who are dedicated to collecting money solely because they're obsessive about it, the majority of people are using it as a proxy.
+
+Who exactly issues money? As of now, governments. Non-profit foundations are doing stuff with crypto, but governments largely have kept their money monopoly.
+
+What prevents a government from issuing as much money as it wants to solve these deficits? Why can't they turn the money printer on and make it go brrr? There are three reasons: unequal distribution, outside entities, and markets.
+
+Unequal distribution is easy. As currency inflation is uniform, the people who are not the beneficiaries of the unequal distribution, will be left with currency that is valued less. It's classic [stock dilution](https://en.wikipedia.org/wiki/Stock_dilution).
+
+If the money is printed by the government to pay it's debts, as [Zimbabwe did](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), it lowers the credit rating for the currency and causes inflation. Since the world is pretty global and interdependent, this means that relative to other currencies, Zimbabwe's dollar loses value. This can be solved by a one centralized currency for the entirety of a system. Like a search engine, or like electricity, money may need to be viewed in the future as a utility. We explore this more in the case for utilities.
+
+The last concern is that of demand and supply. If the amount of people who want something is greater than the amount of that item, there is no possible way to satisfy all of them. I argue in the next section, that we have the capacity and resources to make this happen. The mindset of scarcity should not exist when we have the world into one of abundance.
+
+### demand and supply
+
+### the case for utilities
