@@ -125,7 +125,7 @@ The solution I have towards this is probably something along the lines of just g
 
 The concern here is of course, centralization, and the government. If we let the government control the media, are we not enabling straight-up propaganda? Media clearly needs to be supported so who funds it? This is a good reason for Universal Basic Income (UBI), but I digress. We don't necessarily have to have the government fund it, if we as individuals are empowered to do so.
 
-## tribalism
+### tribalism
 
 Tribalism and ideological groups are a large reason why our models for understanding suck. Groups don't particularly care about the truth (we can define the truth as some arbitrary linear combination of things that make the world work). They care about examining the entirety of the world through their lens and convincing you that this view is the correct one.
 
@@ -143,8 +143,10 @@ With the Internet, consensus doesn't even necessarily have to be the majority, b
 
 ### incumbency
 
-Capitalism is not inherently bad. There needs to be some level of inequality in order to create a system that has fluidity and the chance of promotion. Capitalism, when under a truly free market, should "grow the pie", that is create technological progress that raises the standards of living for all people. The problem is that this progress has been largely captured by the ones creating it, and is not spreading to the rest of the population. This has not increased quality of living, but decreased it (in America). More of this to come in the economic orthodoxy section.
+Capitalism is not inherently bad. There needs to be some level of inequality in order to create a system that has fluidity and the chance of promotion. Capitalism, when under a truly free market, should "grow the pie", that is create technological progress that raises the standards of living for all people. The problem is that this progress has been largely captured by the ones creating it, and is not spreading to the rest of the population. This has not increased quality of living, but decreased it (in America). More of this to come in the truly liquid market section.
 
 The problem is that this system has created a very narrow set of 'winners', incumbents that don't really have to do much in order to stay incumbents. With the wealth gap seriously widening, at some point, too much inequality leads to revolution and the tearing down of the whole apparatus.
 
-The problem of incumbency also lies with any sort of organization that is meant to solve a problem.
+The problem of incumbency also lies with any sort of organization that is meant to solve a problem. An organization that is dedicated towards fighting and eliminating cancer is ironically incentivized to not eliminate it. If cancer were gone, the organization would have to dissolve or shift it's focus to another issue. Funding could dry up. It wouldn't be stable. The safest move is to play it the subscription way, saying that the problem is getting bigger and bigger, and continually milking funders for more and more resources. As bigger organizations are seen as a source of pride for managers ("I have 30 people under me!"), the result is eventually some bloated ineffective mess. Whereas an organization may have been super effective upon it's founding, we see that it follows some form of asymptotic lifetime, such that eventually it does more harm than good.
+
+Incumbent monopolies are an issue in the sense that they do not have any underlying incentive to innovate or change. They have no sense of competition to drive them away from the path of least resistance: charging more and more for the same product, milking as much as possible similar to how private equity works. Just like how prolonged competition results in cost-cutting and decrease in product quality, non-existent competition also results in inferior products. The products that are created have to meet certain standards of compliance or a certain market share in order for the company to consider them. The company's outlook and goals restrict and restrain what can be produced.
