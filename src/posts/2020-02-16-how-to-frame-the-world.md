@@ -73,7 +73,7 @@ This is actually quite hard to do. There are standards of thresholds that have b
 
 This is further compounded by the various systemic incentives in science. The push in science is supposedly to discover truth, but the metric used for such a thing is papers published. We get [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law) all over again, where the metric replaces the target, making the target useless.
 
-Given that science, like many other academic fields, has [become over-saturated](https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/) with PhDs and postdocs, I have no doubt that liberties are taken in the pursuit of papers and citations. As Katz would say, [don't become a scientist.](http://katz.fastmail.us/scientist.html)
+Given that science, like many other academic fields, has [become over-saturated](https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/) with PhDs and postdocs, I have no doubt that liberties are taken in the pursuit of papers and citations. As Katz would advise, if you like science, [don't become a scientist.](http://katz.fastmail.us/scientist.html)
 
 We can see this push to publish cause significant fraud, as has been [documented](https://www.wsj.com/articles/chinese-research-papers-raise-doubts-fueling-global-questions-about-scientific-integrity-11593939600) [in](https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html) [China](https://www.nature.com/articles/d41586-019-00439-9).
 
@@ -195,7 +195,7 @@ There are numerous counters to that. The two obvious ones are monopoly and coord
 
 The other is that these things are resource-based and have an operating price floor for how much a company can charge for it. Companies can make all the optimizations and subsidies that they want, but the end result in the long term is something that requires a fixed profit.
 
-It's well documented how people in war zones suffer terribly. Quality of life is down. Time to think about abstractions is pretty much non-existent because you're never given a time to breath. You have to worry about survival. You cannot focus on understanding or growth or progress when there's gunfire happening outside. While these deficits don't immediately create an environment of terror, they create a system which leads to one, to our society's detriment.
+It's well documented how people in war zones suffer terribly. Quality of life is down. Time to think about abstractions is pretty much non-existent because you're never given a time to breathe. You have to worry about survival. You cannot focus on understanding or growth or progress when there's gunfire happening outside. While these deficits don't immediately create an environment of terror, they create a system which leads to one, to our society's detriment.
 
 ### goodhart's law all over again
 
@@ -220,3 +220,5 @@ The last concern is that of demand and supply. If the amount of people who want 
 ### demand and supply
 
 ### the case for utilities
+
+## a pivot to individualism
