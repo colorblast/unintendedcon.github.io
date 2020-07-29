@@ -2,15 +2,14 @@
 layout: post
 title: How To Frame The World
 date: 2020-02-16 22:00 -0400
-description: >-
-  - We argue with each other so much. But why?
+description: "- We argue with each other so much. But why?"
 keywords:
-  - life
-  - philosophy
-  - science
-  - categorization
----
+- life
+- philosophy
+- science
+- categorization
 
+---
 THIS IS A WIP DRAFT AND IS NOWHERE NEAR FINISHED.
 
 tldr: our representations suck, but we're working on making them better and I'm optimistic.
@@ -23,7 +22,7 @@ That's super grim and as much as I entertained the notion, I like my theory bett
 
 I struggled with depression a couple of years ago. The act of waking up and proceeding with the day felt like torture and I couldn't really feel anything. I didn't feel like I had anyone to rant to.
 
-One thing that made me feel better about my depression was discovering Allie Brosh's webcomic [_Hyperbole and a Half_](https://hyperboleandahalf.blogspot.com). The comics are super funny, not just for the wholesomeness (and meme material), but also the relatability and accurate depiction of depression. Brosh dropped out of the public sphere a couple of years ago, and so when looking for more material, I found [this talk](https://www.youtube.com/watch?v=Kl8_g72zEUQ) by her on this JoCo Cruise.
+One thing that made me feel better about my depression was discovering Allie Brosh's web-comic [_Hyperbole and a Half_](https://hyperboleandahalf.blogspot.com). The comics are super funny, not just for the wholesomeness (and meme material), but also the relatability and accurate depiction of depression. Brosh dropped out of the public sphere a couple of years ago, and so when looking for more material, I found [this talk](https://www.youtube.com/watch?v=Kl8_g72zEUQ) by her on this JoCo Cruise.
 
 In the talk, Brosh states how we often represent ourselves as reductionized forms of ourselves, say a triangle. She then draws a bunch of zig-zags and swirls and things that this language cannot really represent or define, over that triangle, to represent what a human is.
 
@@ -31,11 +30,11 @@ It's a known problem that linguistics has its limitations. If you're a bilingual
 
 It's also a known fact that human life is finite. We value our own time. The way how we express this is through machine-like indifference and efficiency. Every person has some self-interest involved. Sometimes self-interests can align. But ultimately, everyone is interested in something that provides value to themselves or enhances their own lives. We can see how this self-interest reflects in how we communicate.
 
-Unless we have immense familiarity (or no familiarity at all but the interaction is a chance no-stakes occurence) with the person at hand, we reductionize ourselves to whatever category society applies to us. For the majority of us, we derive our value from gainful employment; we associate ourselves with the labels of 'lawyer', 'banker', 'teacher', 'social worker', etc. Human life is finite, and there is a high chance that if you and the other person don't really care about the interaction, that this imperfect reductionized fib is fine.
+Unless we have immense familiarity (or no familiarity at all but the interaction is a chance no-stakes occurrence) with the person at hand, we reductionize ourselves to whatever category society applies to us. For the majority of us, we derive our value from gainful employment; we associate ourselves with the labels of 'lawyer', 'banker', 'teacher', 'social worker', etc. Human life is finite, and there is a high chance that if you and the other person don't really care about the interaction, that this imperfect reductionized fib is fine.
 
 ## analog world
 
-It is a fact that the world is imperfect. Everything in the world is analog, yet for us to make any meaning out of it, we have to create digital versions of them. Any CS student is familiar with the fact that floating point numbers cannot quite be represented by a computer. It is, at best, an estimate.
+Everything in the world is analog, yet for us to make any meaning out of it, we have to create digital versions of them. Any CS student is familiar with the fact that floating point numbers cannot quite be represented by a computer. It is, at best, an estimate.
 
 Audiophiles no doubt, have noticed a difference between listening to a digital recording of music on a service like Spotify vs. attending a live music concert. Photographers have noticed the difference between the actual observance of a thing vs the photograph of it.
 
@@ -45,7 +44,7 @@ We create digital categories for how we represent information. We apply heuristi
 
 ## trust
 
-We have limited lifespan which by induction, means that we have limited experience. Thus, our understanding of our world is capped by our lives. In order for us to make decisions and just be the social species that we are, we have to form trust. We have to determine exactly what sort of people are trustworthy. For many people, this means people that are like them. Given that kids are very much influenced by their parents (which I think Girard overbroadens to the whole of society) and the fact that people seek people like them, it is highly likely that everyone will form this bubble or echo chamber. For more on this, you can see Nicky Case's (and Vi Hart's) [Parable of the Polygons](https://ncase.me/polygons/).
+We have limited lifespan which by induction, means that we have limited experience. Thus, our understanding of our world is capped by our lives. In order for us to make decisions and just be the social species that we are, we have to form trust. We have to determine exactly what sort of people and information is trustworthy. For many people, this means people that are like them and content that matches their belief patterns. Given that kids are very much influenced by their parents (which I think Girard overbroadens to the whole of society) and the fact that people seek people like them, it is highly likely that everyone will form this bubble or echo chamber. For more on this, you can see Nicky Case's (and Vi Hart's) [Parable of the Polygons](https://ncase.me/polygons/).
 
 ## our models for understanding suck
 
@@ -53,17 +52,27 @@ We have limited lifespan which by induction, means that we have limited experien
 
 One of the best examples of this is our mapping systems. Explorers and traders needed to figure out where they were going, and to do that, they needed a model of where everything was. The limitation, of course, was that the only material available for this was paper, which is two-dimensional. Given the world is circular and 3-dimensional, the challenge of representing our world in 2-d without significant distortions was a huge challenge.
 
-This was something that afflicted the Mercator Projection, where certain countries were distorted far further (looking at you Greenland!). We've tried to account for this with the Robinson Projection, but it's still imperfect.
+This was something that afflicted the [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection#Distortion_of_sizes), where certain countries were distorted far further (looking at you Greenland!). We've tried to account for this with the Robinson Projection, but it's still imperfect.
 
 ### science
 
 To understand things, in science, we most commonly use models. There are many interactions, so we rely on things like environmental models to emulate the interactions between things like the sun, our atmosphere, the clouds, and plants.
 
-Climate change gets disputed because
+The problem with science is that in science we tend to look towards proving a hypothesis. We are trying to prove that something has a significant effect on something else.
+
+This is actually quite hard to do. There are standards of thresholds that have been normalized in different fields of study, but it is fairly easy to get around them, through [p-hacking and other statistical tricks](https://en.wikipedia.org/wiki/Data_dredging). Who exactly gets to define what an outlier is, or what a correlation is, is left to the study author.
+
+This is further compounded by the various systemic incentives in science. The push in science is supposedly to discover truth, but the metric used for such a thing is papers published. We get [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law) all over again, where the metric replaces the target, making the target useless.
+
+Given that science, like many other academic fields, has [become over-saturated](https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/) with PhDs and postdocs, I have no doubt that liberties are taken in the pursuit of papers and citations. As Katz would say, [don't become a scientist.](http://katz.fastmail.us/scientist.html)
+
+We can see this push to publish cause significant fraud, as has been [documented](https://www.wsj.com/articles/chinese-research-papers-raise-doubts-fueling-global-questions-about-scientific-integrity-11593939600) [in](https://www.nytimes.com/2017/10/13/world/asia/china-science-fraud-scandals.html) [China](https://www.nature.com/articles/d41586-019-00439-9).
+
+When we also see the fact that there is little to no replication studies being done, with some journals even denying funding for such studies, the cynicism can really start to spread.
+
+The result is that there are so many "experts" and studies out there, enough that one can cherry-pick their favorite views. 
 
 ### politics
-
-We've seen that since 2016, that in politics, the statistical models have been kinda lowkey terrible. As much as Nate Silver would like to say that his models are performing, they simply haven't.
 
 In politics, the most common representation of how voters are aligned is a spectrum. It goes from left to right, with supposedly different levels of an ideology representing where you were on the spectrum. The problem, as clearly shown in 2016, is that this is an oversimplification. Many people who had previously voted for Obama voted for Trump in 2016. What gives?
 
@@ -73,18 +82,34 @@ It fails to account for voter apathy or for people who simply don't like any of 
 
 In the creation of the spectrum, much like the compression of an image from a physical setting, value is lost, and some of it is critical.
 
---- DRAFT ENDS HERE
+We can see this reflected in how politicians appeal to us. Instead of focusing on policy and what they're willing to do for us, they appeal to our emotions and say that the other side is worse instead of trying to be better.
 
-## human life is limited
+### media
 
-Human life is finite. We have only so much life and thus, [only so much time](https://waitbutwhy.com/2014/05/life-weeks.html). This means we are resource-constrained to make the most of it. We'd like our lives to be fulfulling, to have some sort of purpose or value, however we define it. It can mean many things. For some people, this purpose is status or power. For others, its intrinsic value (the act of existing). It could be relational. It doesn't matter for the purpose of this thought experiment.
+The media is an elitist institution and has been that way for the past couple centuries. Noam Chomsky explores how media serves as the vanguard of any movement, how it gets to [define what is acceptable discourse](https://en.wikipedia.org/wiki/Manufacturing_Consent), what isn't acceptable discourse, and what exactly is news-worthy.
 
-## we need to communicate
+The problem with media is again it's incentives. For-profit media has two business models right now: ads and subscription. 
 
-Humanity has shaped the world the most out of everything on Earth. We've learned how to work together, how to farm, how to specialize, how to industrialize, and how to send a man to the moon. Heck, we're thinking of establishing a space colony!
+The first is incentivized to get as many clicks as possible on a given article. They also give up a decent amount of creative control to the advertisers as the advertisers are paying for the newspaper to continue to function. This kills reader-alignment and makes it much harder to create content that appeals to both the reader and advertiser. In the end, you often get generic articles that don't really say much about anything.
 
-The way we've been able to do this is through communication. There are many mediums through which communication can happen, but the key is that these humans agree on shared representation for what a 'thing' is. These people have to agree on how much a meter is if they want to safely send a spaceship into space.
+The second is better aligned with it's readership. But this itself is a problem. Media and news is a product. The news produced by a particular organization must meet and match the worldview of it's audience. For the New York Times or the Atlantic, that's wealthy coastal liberals. For Vox, it's coastal millennials. For the WSJ, it's coastal conservative finance types.
 
-The thing is, it's a known phenomenon that linguistics has its limitations. Bilingual people are most familiar with this, where they may have one concept or thing that is easily able to be expressed in one language, but cannot quite be expressed in the other.
+If you paid attention, you'll notice that the majority of these publications are coastal. In fact, almost all media is headquartered in New York. The decline of the local paper, as they [get bought by private equity firms](https://newrepublic.com/article/148022/finance-killing-news), has resulted in a disproportionate focus on what the people who read the NYT, the Atlantic, or the WSJ are interested in. Although I cannot confirm this, national news often seems to trigger emotions more.
 
-When we entertain the age-old philosophy question of what exactly is a chair, we cannot quite define what a chair is. We have a good sense of heuristics, a good sense of the characteristics of a chair, but no quite clear rule.
+Now we can see how exactly this defines what truth is told. There are two models for how this unfolding. One involves social media and one involves journalistic monopoly.
+
+The journalistic monopoly form is that ideological outlets or fringe outlets will publish views that align with theirs. Some may be true, some may not be, it all depends on the outlet's standards. The news stories eventually is read by some person at a more mainstream place like the Times (The Times is just being used as an example, don't take this personally), and some combination of people decide whether they want to air the story. The other outlets, such as Vice, U.S. News, and the New Yorker then will follow and also air the story (may not necessarily be those outlets, consider this an abstract thinking experiment). Thus, consensus is achieved. This gives enormous power to the "lead" organizations such as the Times, because they ultimately determine what exactly becomes the story or the narrative.
+
+As much as journalists claim that they seek the truth and objectivity, journalism has become a product so this monopoly does not satisfy everyone. In the age of social media, we see sites spring up to meet literally every ideological view or way of thinking. Platforms like Facebook and Twitter significantly reduced the friction involved in sharing information, especially emotionally-charged information. This has made it easy for things like fake news to proliferate. It has also created a toxic atmosphere where everyone is so emotionally-charged. This has had real-wold effects in the keyboard warrior phenomenon. People are abstracted from the results of their actions and are increasingly not seeking to engage with people they disagree with, but to perform and mock said person in front of their audience.
+
+Journalism has fallen by the sword of postmodernism whereby they've deconstructed literally everything that the only way forward is nihilism. Institutions deserve a check and should require accountability, but ironically the people who are supposed to hold them accountable, journalists, don't hold themselves accountable. Fredrik De Boer had an excellent post on this (which he later deleted) called the irresistible force vs. the ironized object. When the media refuses to engage with it's critics, and instead labels them as Big \[whatever\] (which can be true, but doesn't necessarily enage with said criticism), it only increases the number of people who feel alienated by the surrounding media apparatus.
+
+This alienation has led to a significant change in the media landscape that is still on-going. We are seeing figures like Joe Rogan fill the gap left by the current media landscape. Podcasting is increasing, newsletters are increasing, decentralized individual media apparatuses are growing. In forming an exclusive media tribe that will only engage on specific stories, that portion of the media becomes irrelevant.
+
+This was not the case 20 or 30 years ago with cable. When you have only a couple TV channels vs a whole Internet of every view conceivable, you don't have much of a choice in terms of where you're sourcing your information from.
+
+Anyways, this news as a product thing clearly has it's flaws. If it's not outright choosing what truth to pick or rank, it may distort it to fit it's narrative.
+
+The solution I have towards this is probably something along the lines of just getting rid of for-profit national media altogether. Non-profit outlets like ProPublica do a much better job of reporting anyways. They get national stories by threading local stories together. Something like NPR also does fine.
+
+The concern here is of course, centralization, and the government. If we let the government control the media, are we not enabling straight-up propaganda? Media clearly needs to be supported so who funds it? This is a good reason for Universal Basic Income (UBI), but I digress. We don't necessarily have to have the government fund it, if we as individuals are empowered to do so.
