@@ -78,7 +78,7 @@ const BlogPost = props => {
         title={props.data.markdownRemark.frontmatter.title}
       />
       <section className="text-gray-900">
-        <h1 className="text-3xl">
+        <h1 className="text-3xl font-bold">
           {props.data.markdownRemark.frontmatter.title}
         </h1>
         <p>{postDate}</p>

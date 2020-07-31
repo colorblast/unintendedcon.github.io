@@ -83,6 +83,11 @@ function ListsPage() {
             triggerWhenOpen="Intriguing Stuff"
           >
             <li>
+              <a href="https://youtu.be/EWPFmdAWRZ0">
+                Pale Blue Dot *
+              </a>
+            </li>
+            <li>
               <a href="https://www.maa.org/external_archive/devlin/LockhartsLament.pdf">
                 Lockhart's Lament
               </a>
