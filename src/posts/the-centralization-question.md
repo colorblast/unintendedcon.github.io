@@ -40,7 +40,7 @@ Currency would also be something for which a full-blown monopoly might actually 
 
 The problem is, of course, inflation. As I documented in my How To Frame the World post, there are three main objections towards just giving everybody tons of money. One was that there was previously no mechanism to distribute it all equally. The government was great at collecting taxes, but terrible at giving money. The second is that when demand exceeds supply, costs adjust and go up (our world is abundant so not an issue). The last is foreign exchange markets.
 
-With crypto, you can switch to a more stable currency if your country's currency is hyperinflationary. Why would you want to do this? 
+With crypto, you can switch to a more stable currency if your country's currency is hyperinflationary. Why would you want to do this?
 
 The world is super global and imports and exports from each other. When hyperinflation happens it messes up this balance. People will start to refuse using the currency because it's value has depreciated relative to the others.
 
@@ -50,7 +50,7 @@ Inflation occurs because a country wants to maintain that it's own currency has 
 
 This focus on arbitrarily setting exchange rates results in a low baseline threshold wherein ironically countries are incentivized to keep their market cap low and kill liquidity. If you increase your market cap, your currency gets devalued.
 
- Monopolies do not have to deal with negative sum games or zero sum games at the level we do since they ensure that there are no other players in their respective fields. The budget required to maintain a monopoly is much less than trying to create one. The people trying to undermine your monopoly aren't as coordinated. With a singular government, you have a monopoly over violence, currency, and the resources. They can deal with systemic deficits such as pollution or mess much more easily since they can reach consensus much more easily than a bunch of independent agents. If they decide to try to solve climate change, there's no 50% opposition that springs up to fight them tooth and nail. 
+Monopolies do not have to deal with negative sum games or zero sum games at the level we do since they ensure that there are no other players in their respective fields. The budget required to maintain a monopoly is much less than trying to create one. The people trying to undermine your monopoly aren't as coordinated. With a singular government, you have a monopoly over violence, currency, and the resources. They can deal with systemic deficits such as pollution or mess much more easily since they can reach consensus much faster than a bunch of independent agents. If they decide to try to solve climate change, there's no 50% opposition that springs up to fight them tooth and nail.
 
 Centralization has it's own downfalls, of course. It's an all or nothing approach which is volatile and subject to the whim of an individual or few individuals. Concentrated power tends to eat itself.
 
