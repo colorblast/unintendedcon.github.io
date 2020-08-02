@@ -16,7 +16,7 @@ keywords:
 ---
 One year ago, John Hopkins released a report ranking counties for their resources and preparation for a pandemic. The United States scored first.
 
-This did not come to fruition to put it mildly. In a country that espouses individualism and a do-what-I-want mentality, federal guidelines were sparse and warnings were not headed. This has resulted in the United States being first in COVID deaths, with at least [150k dead](https://coronavirus.jhu.edu/map.html).
+This did not come to fruition to put it mildly. In a country that espouses individualism and a do-what-I-want mentality, federal guidelines were sparse and warnings were not heeded. This has resulted in the United States being first in COVID deaths, with at least [150k dead](https://coronavirus.jhu.edu/map.html).
 
 To put that number in perspective, we lost [33k](https://www.cbsnews.com/news/how-many-americans-died-in-korea/) soldiers in the Korean War. In much ballyhooed Vietnam, we lost [\~58k](https://www.archives.gov/research/military/vietnam-war/casualty-statistics). And in WWI, [\~117k](https://www.britannica.com/event/World-War-I/Killed-wounded-and-missing).
 
