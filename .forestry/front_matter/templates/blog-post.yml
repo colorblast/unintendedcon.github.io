@@ -18,6 +18,7 @@ fields:
   name: keywords
   label: keywords
 pages:
+- src/posts/capitalism-and-socialism-are-entangled.md
 - src/posts/everybody-knows.md
 - src/posts/getting-psycopg2-working-on-solus.md
 - src/posts/notes-on-black-swan-theory.md
