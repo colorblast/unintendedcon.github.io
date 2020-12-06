@@ -44,7 +44,7 @@ export const query = graphql`
 
 const BlogPost = props => {
   const $ = Cheerio.load(props.data.markdownRemark.html);
-  $(`h2`).addClass(`text-3xl mt-8`);
+  $(`h2`).addClass(`text-4xl mt-8`);
   $(`h3`).addClass(`text-2xl mt-8`);
   $(`li`).addClass(`text-lg`);
   $(`ul > li`).addClass(`mt-2`);
@@ -52,11 +52,11 @@ const BlogPost = props => {
   $(`ol`).addClass(`list-decimal mt-8`);
   $(`ul`).addClass(`list-square mt-8`);
   $(`em`).addClass(`italics`);
-  $(`p`).addClass(`leading-loose text-lg text-gray-800 mt-8`);
+  $(`p`).addClass(`leading-loose text-lg text-gray-800 mt-8 text-2xl`);
   $(`blockquote`).addClass(
     `border-l-4 border-gray-300 font-serif leading-loose pl-4 text-justify`
   );
-  $(`a`).addClass(`text-gray-700 font-bold underline hover:text-gray-900`);
+  $(`a`).addClass(`text-gray-700 font-bold underline hover:text-gray-900 inline`);
 
   let postDate = moment(props.data.markdownRemark.frontmatter.date).isValid()
     ? moment(props.data.markdownRemark.frontmatter.date).format(
@@ -78,11 +78,11 @@ const BlogPost = props => {
         title={props.data.markdownRemark.frontmatter.title}
       />
       <section className="text-gray-900">
-        <h1 className="text-3xl font-bold">
+        <h1 className="text-5xl font-bold">
           {props.data.markdownRemark.frontmatter.title}
         </h1>
-        <p>{postDate}</p>
-        <div dangerouslySetInnerHTML={{ __html: $.html() }}></div>
+        <p className="text-2xl">{postDate}</p>
+        <div class="poppins" dangerouslySetInnerHTML={{ __html: $.html() }}></div>
       </section>
     </Layout>
   );

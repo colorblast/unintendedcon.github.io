@@ -2,3 +2,12 @@
   color: #d46240;
   font-style: oblique;
 }
+
+a {
+  @apply w-full;
+  @apply block;
+}
+
+.link-cl:hover {
+  @apply text-red-700;
+}

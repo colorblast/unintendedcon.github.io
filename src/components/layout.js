@@ -51,13 +51,13 @@ function Layout({ children }) {
 
       <footer>
         <nav className="flex justify-between max-w-4xl mx-auto p-4 md:p-8 text-sm">
-          <p className="text-white">
-            <Link className="font-bold no-underline text-gray-800" to="/">
+          <p className="text-white flex">
+            <Link className="font-bold no-underline text-gray-800 w-auto" to="/">
               Jonathan Wong
             </Link>{" "}
             -
             <a
-              className="font-bold text-blue-300"
+              className="font-bold text-blue-300 w-auto"
               href="https://twitter.com/suchcaptcha"
             >
               @suchcaptcha

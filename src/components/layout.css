@@ -9,7 +9,11 @@
 }
 
 body {
-  font-family: "ET Book", serif;
+  font-family: "ET Book", sans-serif;
+}
+
+.poppins {
+  font-family: "Inter", serif;
 }
 
 .logo,
@@ -21,10 +25,18 @@ header {
   background: #fbf2da;
 }
 
-.layout-overlay {
+.layout-overlay, .layout-left {
   background: #f9ebc4;
 }
 
-.side-overlay {
+.layout-overlay:hover {
+  @apply bg-orange-300;
+}
+
+.side-overlay, .layout-right {
   background: #b7f4c4;
+}
+
+.side-overlay:hover {
+  @apply bg-green-300;
 }
