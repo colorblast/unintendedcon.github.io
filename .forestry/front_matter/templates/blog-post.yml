@@ -18,9 +18,15 @@ fields:
   name: keywords
   label: keywords
 pages:
+- src/posts/capitalism-and-socialism-are-entangled.md
+- src/posts/everybody-knows.md
 - src/posts/getting-psycopg2-working-on-solus.md
 - src/posts/notes-on-black-swan-theory.md
 - src/posts/on-growth.md
 - src/posts/on-linearity.md
 - src/posts/rights-vs.privileges.md
 - src/posts/the-case-for-personalized-ads.md
+- src/posts/the-centralization-question.md
+- src/posts/update-on-my-goals.md
+- src/posts/why-are-recommender-systems-so-bad.md
+- src/posts/why-the-world-has-lurched-to-the-right-and-why-it-will-continue-to-do-so-for-the-considerable-future.md
