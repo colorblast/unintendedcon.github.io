@@ -7,7 +7,7 @@
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
     "cheerio": "^1.0.0-rc.3",
-    "gatsby": "2.18.17",
+    "gatsby": "^2.25.0",
     "gatsby-plugin-feed": "^2.3.25",
     "gatsby-plugin-manifest": "2.2.34",
     "gatsby-plugin-offline": "3.0.30",
@@ -16,6 +16,7 @@
     "gatsby-plugin-react-helmet": "^3.1.18",
     "gatsby-plugin-sitemap": "^2.2.27",
     "gatsby-remark-prismjs": "^3.5.10",
+    "gatsby-remark-twitter-cards": "^0.6.1",
     "gatsby-source-filesystem": "^2.1.43",
     "gatsby-theme-gallery": "^1.0.2",
     "gatsby-transformer-json": "^2.4.11",
@@ -78,5 +79,8 @@
   },
   "bugs": {
     "url": "https://github.com/taylorbryant/gatsby-starter-tailwind/issues"
+  },
+  "resolutions": {
+    "sharp": "0.24.0"
   }
 }

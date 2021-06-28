@@ -1,0 +1,32 @@
+[
+  {
+    "name": "95th percentile isn't that good.",
+    "author": "Dan Luu",
+    "link": "https://danluu.com/p95-skill/"
+  },
+  {
+    "name": "My favorite essays of life advice",
+    "author": "Ben Kuhn",
+    "link": "https://www.benkuhn.net/weeklyessays/"
+  },
+  {
+    "name": "Essays on Programming I think About Alot",
+    "author": "Ben Kuhn",
+    "link": "https://www.benkuhn.net/progessays/"
+  },
+  {
+    "name": "Winning a Loser's Game",
+    "author": "Jamie O'Donoghue",
+    "link": "https://medium.com/five-merrion-row/winning-a-losers-game-13cd93f16ab3"
+  },
+  {
+    "name": "OODA Loop",
+    "author": "Various Wikipedia contributors",
+    "link": "https://en.wikipedia.org/wiki/OODA_loop"
+  },
+  {
+    "name": "Preference Falsification",
+    "author": "Various Wikipedia contributors",
+    "link": "https://en.wikipedia.org/wiki/Preference_falsification"
+  }
+]

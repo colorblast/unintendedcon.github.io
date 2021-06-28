@@ -1,9 +1,8 @@
-import PropTypes from "prop-types";
-import React from "react";
-import { Helmet } from "react-helmet";
-import { Link } from "gatsby";
+import PropTypes from "prop-types"
+import React from "react"
+import { Helmet } from "react-helmet"
 
-import "./layout.css";
+import "./layout.css"
 
 function Layout({ children }) {
   return (
@@ -19,11 +18,11 @@ function Layout({ children }) {
         {children}
       </main>
     </div>
-  );
+  )
 }
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired
-};
+}
 
-export default Layout;
+export default Layout

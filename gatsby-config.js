@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `unintendedcon`,
-    description: `CS, startups, and productivity. Follow the in-progress life story of 20 year old me.`,
+    description: `Where do we go from here?`,
     author: `Jonathan Wong`,
     siteUrl: `https://unintendedcon.github.io`
   },
@@ -58,6 +58,14 @@ module.exports = {
       }
     },
     `gatsby-plugin-offline`,
-    `gatsby-plugin-sitemap`
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-remark-twitter-cards`,
+      options: {
+        title: 'unintendedcon',
+        background: `#fbf2da`,
+        fontColor: `#2f906a`,
+      }
+    }
   ]
 };

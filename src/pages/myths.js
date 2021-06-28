@@ -4,18 +4,14 @@ import { graphql, useStaticQuery, Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-function BookPage() {
+function MythsPage() {
   const data = useStaticQuery(graphql`
     query {
-      allBooksJson {
+      allMythsJson {
         edges {
           node {
             name
-            author
             description
-            value
-            imageURL
-            notes
           }
         }
       }
@@ -26,7 +22,7 @@ function BookPage() {
     <Layout>
       <SEO
         keywords={[
-          `books`,
+          `myths`,
           `jonathan wong`,
           `unintendedcon`,
           `reallyidk`,
@@ -37,36 +33,17 @@ function BookPage() {
 
       <section className="flex flex-col md:flex-row items-center">
         <div className="w-full text-gray-900">
-          <h2 className="text-3xl">Books</h2>
+          <h2 className="text-3xl">Myths</h2>
           <br />
-          <i>
-            More on{" "}
-            <a
-              href="https://www.goodreads.com/review/list/123116190?ref=nav_mybooks"
-              className="inline text-gray-600 hover:text-gray-800"
-            >
-              Goodreads
-            </a>
-            .
-          </i>
           <div>
-            {data.allBooksJson.edges.map(edge => {
+            {data.allMythsJson.edges.map(edge => {
               return (
                 <div class="w-full py-5">
                   <h2 className="text-xl">
                     {edge.node.name}
                     &nbsp;
                   </h2>
-                  <h3 className="text-lg">{edge.node.author}</h3>
                   {edge.node.description} &nbsp;
-                  {/* {edge.node.notes != "" && (
-                    <Link
-                      className="text-gray-700 font-bold underline hover:text-gray-900"
-                      to={`/articles/` + edge.node.notes}
-                    >
-                      Notes
-                    </Link>
-                  )} */}
                 </div>
               )
             })}
@@ -77,4 +54,4 @@ function BookPage() {
   )
 }
 
-export default BookPage
+export default MythsPage

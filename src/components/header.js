@@ -1,9 +1,9 @@
-import { graphql, useStaticQuery, Link } from "gatsby";
-import React, { useState } from "react";
-import "./header.css";
+import { graphql, useStaticQuery, Link } from "gatsby"
+import React, { useState } from "react"
+import "./header.css"
 
 function Header() {
-  const [isExpanded, toggleExpansion] = useState(false);
+  const [isExpanded, toggleExpansion] = useState(false)
   const { site } = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -12,7 +12,7 @@ function Header() {
         }
       }
     }
-  `);
+  `)
 
   return (
     <header className="z-40">
@@ -44,24 +44,12 @@ function Header() {
         >
           {[
             {
-              route: `/lists`,
-              title: `LISTS`
-            },
-            {
               route: `/blog`,
               title: `BLOG`
-            },
-            {
-              route: `/photos`,
-              title: `PHOTOS`
-            },
-            {
-              route: `/contact`,
-              title: `CONTACT`
             }
           ].map(link => (
             <Link
-              className="block md:inline-block mt-4 md:mt-0 md:ml-6 no-underline font-bold text-sm"
+              className="block md:inline-block mt-4 md:mt-0 md:ml-6 no-underline font-bold text-sm hover:text-gray-800"
               key={link.title}
               to={link.route}
             >
@@ -75,7 +63,7 @@ function Header() {
         <hr className="sm:w-full md:w-5/6 lg:w-2/4" />
       </div>
     </header>
-  );
+  )
 }
 
-export default Header;
+export default Header

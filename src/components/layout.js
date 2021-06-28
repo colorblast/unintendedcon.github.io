@@ -1,10 +1,10 @@
-import PropTypes from "prop-types";
-import React from "react";
-import { Helmet } from "react-helmet";
-import { Link } from "gatsby";
+import PropTypes from "prop-types"
+import React from "react"
+import { Helmet } from "react-helmet"
+import { Link } from "gatsby"
 
-import Header from "./header";
-import "./layout.css";
+import Header from "./header"
+import "./layout.css"
 
 function Layout({ children }) {
   return (
@@ -50,17 +50,20 @@ function Layout({ children }) {
       </main>
 
       <footer>
-        <nav className="flex justify-between max-w-4xl mx-auto p-4 md:p-8 text-sm">
+        <nav className="flex justify-between max-w-4xl mx-auto py-4 text-sm">
           <p className="text-white flex">
-            <Link className="font-bold no-underline text-gray-800 w-auto" to="/">
+            <Link
+              className="font-bold no-underline text-gray-800 w-auto"
+              to="/"
+            >
               Jonathan Wong
             </Link>{" "}
             -
             <a
               className="font-bold text-blue-300 w-auto"
-              href="https://twitter.com/suchcaptcha"
+              href="https://twitter.com/_unintendedcon"
             >
-              @suchcaptcha
+              @_unintendedcon
             </a>
           </p>
 
@@ -75,11 +78,11 @@ function Layout({ children }) {
         </nav>
       </footer>
     </div>
-  );
+  )
 }
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired
-};
+}
 
-export default Layout;
+export default Layout
