@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  node: circleci/node@1.1.6
+  node: circleci/node@14.12.0
 jobs:
   build-and-test:
     executor:
@@ -15,9 +15,9 @@ jobs:
             - run: yarn build
             - run: yarn push
 workflows:
-    build-and-test:
-      jobs:
-        - build-and-test:
-          filters:
-            branches:
-              only: develop
+  build-and-test:
+    jobs:
+      - build-and-test:
+        filters:
+          branches:
+            only: develop
