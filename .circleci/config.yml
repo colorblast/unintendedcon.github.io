@@ -6,11 +6,14 @@ jobs:
     executor:
       name: node/default
     steps:
-      - run: git config user.email "jwong123@binghamton.edu"
-      - run: git config user.name "Jonathan Wong"
-      - run: yarn install
-      - run: yarn build
-      - run: yarn push
+      - checkout
+      - node:
+          steps:
+            - run: git config user.email "jwong123@binghamton.edu"
+            - run: git config user.name "Jonathan Wong"
+            - run: yarn install
+            - run: yarn build
+            - run: yarn push
 workflows:
   build-and-test:
     jobs:
