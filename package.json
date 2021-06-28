@@ -79,8 +79,5 @@
   },
   "bugs": {
     "url": "https://github.com/taylorbryant/gatsby-starter-tailwind/issues"
-  },
-  "resolutions": {
-    "sharp": "0.24.0"
   }
 }
