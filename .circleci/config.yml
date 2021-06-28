@@ -8,10 +8,10 @@ jobs:
     steps:
       install:
         parameters:
-          install-npm: 
+          install-npm:
             default: false
             description: Install NPM?
-                type: boolean
+            type: boolean
           install-yarn:
             default: true
             description: Install Yarn?
