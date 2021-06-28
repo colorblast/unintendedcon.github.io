@@ -6,24 +6,14 @@ jobs:
     executor:
       name: node/default
     steps:
-      install:
-        parameters:
-          install-npm:
-            default: false
-            description: Install NPM?
-            type: boolean
-          install-yarn:
-            default: true
-            description: Install Yarn?
-            type: boolean
+      - checkout
+      - node/with-cache:
           steps:
-            - run:
-              command: |
-              git config user.email "jwong123@binghamton.edu"
-              git config user.name "Jonathan Wong"
-              yarn install
-              yarn build
-              yarn push
+            - run: git config user.email "jwong123@binghamton.edu"
+            - run: git config user.name "Jonathan Wong"
+            - run: yarn install
+            - run: yarn build
+            - run: yarn push
 workflows:
   build-and-test:
     jobs:
