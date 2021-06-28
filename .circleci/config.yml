@@ -23,9 +23,11 @@ jobs:
       - run: yarn build
       - run: yarn push
 workflows:
-  build-and-test:
+  install-node:
     jobs:
       - install-node
+  build-and-test:
+    jobs:
       - build-and-test:
         filters:
           branches:
