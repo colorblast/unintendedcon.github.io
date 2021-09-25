@@ -36,18 +36,26 @@ function IndexPage() {
           <h3 className="text-xl">
             Hi! I'm Jonathan! I'm interested in the underlying abstractions and
             patterns in our lives. I'm particularly interested in theater,
-            defaults, myths, emergence, clusters, paradoxes, loops, power
-            dynamics, and serial entrepreneurs. I keep a running list of all of
-            them.
+            defaults, myths, derivatives, emergence, clusters, paradoxes, loops,
+            iteration cycles, power dynamics, and serial entrepreneurs. I keep a
+            running list of all of them.
           </h3>
           <h3 className="text-xl my-4">
-            I saw someone on Design Twitter that really conveyed a sense of
-            being warm. I should've saved it to are.na cause alas I have
-            forgotten it. Anyways, I mostly do typescript + react and stuff
-            nowadays but am looking to expand beyond that!
+            I'm currently a blockchain engineering intern at Nethermind where I
+            am given free rein to do pretty much whatever interests me. Right
+            now, this is data pipelines, miner-extractable-value (MEV),
+            solidity, and adventures into formal verification.
           </h3>
         </div>
         <div className="my-4">
+          <div>
+            <Link
+              className="text-xl hover:text-gray-800 hover:underline inline"
+              to="/articles"
+            >
+              Articles
+            </Link>
+          </div>
           <div>
             <Link
               className="text-xl hover:text-gray-800 hover:underline inline"
