@@ -10,6 +10,7 @@ function ArticlesPage() {
       allArticlesJson {
         edges {
           node {
+            name
             link
           }
         }
@@ -21,13 +22,13 @@ function ArticlesPage() {
     <Layout>
       <SEO
         keywords={[
-          `paradoxes`,
+          `articles`,
           `jonathan wong`,
           `unintendedcon`,
           `reallyidk`,
           `suchcaptcha`
         ]}
-        title="Books"
+        title="Articles"
       />
 
       <section className="flex flex-col md:flex-row items-center">
@@ -37,11 +38,19 @@ function ArticlesPage() {
           <div>
             {data.allArticlesJson.edges.map(edge => {
               return (
-                <div class="w-full py-5">
-                  <h2 className="text-xl">
-                    {edge.node.link}
-                    &nbsp;
+                <div class="w-full py-2">
+                  <h2 className="text-xl block">
+                    <a
+                      href={edge.node.link}
+                      target="_blank"
+                      className="text-gray-700 hover:text-gray-800"
+                    >
+                      {edge.node.name}
+                    </a>
                   </h2>
+                  <small>
+                    From <i>{edge.node.link}</i>
+                  </small>
                 </div>
               )
             })}

@@ -1,3 +1,66 @@
-{
-  "link": "https://ebuchman.github.io/posts/mmt/"
-}
+[
+  {
+    "name": "Anatomy of a MEV Strategy: Synthetix",
+    "link": "https://bertcmiller.com/2021/09/05/mev-synthetix.html"
+  },
+  {
+    "name": "Critical Analysis of Flashbots",
+    "link": "https://www.palkeo.com/en/projets/ethereum/flashbots.html"
+  },
+  {
+    "name": "Critique of MMT from a Monetary Localist",
+    "link": "https://ebuchman.github.io/posts/mmt/"
+  },
+  {
+    "name": "The Deflationary Bloc",
+    "link": "https://phenomenalworld.org/analysis/deflation-inflation"
+  },
+  {
+    "name": "Questioning the Lambda Architecture",
+    "link": "https://www.oreilly.com/radar/questioning-the-lambda-architecture/"
+  },
+  {
+    "name": "Real Time Machine Learning",
+    "link": "https://huyenchip.com/2020/12/27/real-time-machine-learning.html"
+  },
+  {
+    "name": "The rise of vetocracy",
+    "link": "https://hedgehogreview.com/web-features/thr/posts/the-rise-of-vetocracy"
+  },
+  {
+    "name": "How can we develop tools for transformative thought?",
+    "link": "https://numinous.productions/ttft/"
+  },
+  {
+    "name": "Why do we interface: the past, present, and future of interfaces",
+    "link": "https://whydoweinterface.com/"
+  },
+  {
+    "name": "Startup Metrics for Pirates",
+    "link": "https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version/4-Example_Conversion_Metrics_note_not"
+  },
+  {
+    "name": "Systems Design Explains The World: Volume 1",
+    "link": "https://apenwarr.ca/log/20201227"
+  },
+  {
+    "name": "Clusters rule everything around me",
+    "link": "https://worksinprogress.co/issue/clusters-rule-everything-around-me/"
+  },
+  {
+    "name": "What I Learned This Week From My Trip to Dar Es Salaam Port",
+    "link": "https://globalvaluehunter.com/what-i-learned-trip-to-dar-es-salaam-port/"
+  },
+  {
+    "name": "Well-Behaved Bubbles Often Make History",
+    "link": "https://future.a16z.com/well-behaved-bubbles-history-innovation/"
+  },
+  {
+    "name": "What Explains the Rise of AMMs?",
+    "link": "https://haseebq.com/what-explains-the-rise-of-amms/"
+  },
+  {
+    "name": "FluentInterface",
+    "link": "https://martinfowler.com/bliki/FluentInterface.html"
+  }
+]

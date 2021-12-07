@@ -18,33 +18,6 @@ function Layout({ children }) {
 
       <Header />
 
-      <svg
-        className="absolute z-0 top-0 right-0 opacity-50"
-        fill="none"
-        height="298"
-        viewBox="0 0 819 298"
-        width="819"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M283.935 267.374C160.221 283.924 46.5144 197.049 29.9651 73.3348C13.4158 -50.3796 100.29 -164.086 224.005 -180.635L892.054 -270L951.984 178.009L283.935 267.374Z"
-          fill="url(#paint0_linear)"
-        />
-        <defs>
-          <linearGradient
-            gradientUnits="userSpaceOnUse"
-            id="paint0_linear"
-            x1="29.9651"
-            x2="714"
-            y1="73.3348"
-            y2="-129"
-          >
-            <stop stop-color="#C94B4B" />
-            <stop offset="0.86501" stop-color="#4B134F" />
-          </linearGradient>
-        </defs>
-      </svg>
-
       <main className="flex flex-col flex-1 md:justify-center max-w-4xl mx-auto px-4 py-8 md:p-8 w-full z-40">
         {children}
       </main>

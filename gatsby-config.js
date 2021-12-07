@@ -37,7 +37,19 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-prismjs`]
+        plugins: [
+          `gatsby-remark-prismjs`,
+          `gatsby-remark-responsive-iframe`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 590
+            }
+          }
+        ]
       }
     },
     {
@@ -62,10 +74,13 @@ module.exports = {
     {
       resolve: `gatsby-remark-twitter-cards`,
       options: {
-        title: 'unintendedcon',
+        title: "unintendedcon",
         background: `#fbf2da`,
-        fontColor: `#2f906a`,
+        fontColor: `#2f906a`
       }
-    }
+    },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`
   ]
-};
+}

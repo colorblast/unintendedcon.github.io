@@ -29,7 +29,7 @@ function TenXPage() {
           `reallyidk`,
           `suchcaptcha`
         ]}
-        title="Books"
+        title="10x"
       />
 
       <section className="flex flex-col md:flex-row items-center">

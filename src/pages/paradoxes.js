@@ -28,7 +28,7 @@ function ParadoxesPage() {
           `reallyidk`,
           `suchcaptcha`
         ]}
-        title="Books"
+        title="Paradoxes"
       />
 
       <section className="flex flex-col md:flex-row items-center">

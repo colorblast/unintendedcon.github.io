@@ -1,0 +1,56 @@
+---
+layout: post
+title: Terra Stablecoin Total Supply
+date: 2021-09-04T20:28:00Z
+description: What is the total circulating supply for each stablecoin in the Terra ecosystem?
+keywords:
+  - luna
+  - crypto
+  - terra
+  - stablecoins
+---
+
+![Stablecoin Collateralizations](https://research-assets.cbinsights.com/2018/11/14114258/Stable_Coins_Explaination-1024x574.png)_<small>Source is [CB Insights](https://www.cbinsights.com/research/report/what-are-stablecoins/)</small>_
+
+## Introduction
+
+Stablecoins are on the rise. Stablecoins are crypto assets that are intended to be pegged to some value. There are stablecoins pegged to the Euro, to some arbitrary number, to some supply constant, to the Japanese Yen, and, of course, to the US dollar. Today, we will look at the circulating supply of stablecoins in the Terra ecosystem. This metric is important because it gives us a sense of how much we can rely on the stablecoin in the event of a bank run. Stablecoins that are locked up are not on the market and a shortage of stablecoins can cause a depegging and create a premium, [such as what happened to DAI](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6). We would ideally like the stablecoins that we put our hard-earned money in to have high circulating total supply.
+
+## Definitions
+
+We first need to define circulating total supply. That's a mouthful. We can go by [Coinmarketcap's definition](https://support.coinmarketcap.com/hc/en-us/articles/360043396252-Supply-Circulating-Total-Max-). Here's a direct quote:
+
+> Assets that are locked (via smart contracts or legal contracts), allocated to the team or private investors, or not able to be sold on the public market, cannot affect the price and thus should not be allowed to affect the market capitalization as well. Examples include, but are not limited to, the following
+
+> - Private sale - Assets that were earmarked for a subset of investors and not available to the public through open bidding/balloting.
+> - Ecosystem/Bounty/Marketing/Operations/Airdrops - Assets that have been earmarked for activities to grow the project’s ecosystem. For example, airdropped tokens are generally excluded from circulating supply unless the project is able to furnish evidence that there was active demand for the asset (e.g. users had registered/KYCed for the airdrop).
+> - Masternodes/Staking - Assets that have been ‘staked’ in masternodes are evaluated on a case-by-case basis - Factors such as masternode distribution, ownership, and lock-up periods are also taken into consideration.
+> - Team/Foundation/Treasury/Escrow - Assets held by project members or major ecosystem participants. Such holdings can constitute a significant percentage of the supply.
+
+Based off this definition, we can immediately remove the Terra treasury address and all staked quantities. We can use the balances table from our Flipside Crypto data to get only the user information so we can avoid budgetary and airdrop accounts.
+
+## Hypothesis
+
+We believe that KRT will have the highest circulating supply of all the stablecoins given it's retail nature and use in Korean ecommerce. We will seek to validate this hypothesis.
+
+## Data
+
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/8d8e998c-b38b-4d2e-b10f-d3df6b17f53b/267df865-38d9-43c8-908d-afe5219f66ad" width="800" height="450" />
+
+We can see that KRT has the highest amount of free-floating from a purely balance perspective out of the 4 coins. However, it is most likely the case that we denominate our values in USD so we're prefer to look at the USD balances for stables free-floating. We can see that here.
+
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/9ad244d7-2d55-4e1e-8388-d9bb8a83c118/3ed75629-95c5-431b-a273-25e9543b0cab" width="800" height="450" />
+
+This query will only yield us 4 or so stablecoins. To get the rest of the stablecoins, we could join the balances of these stablecoins to the oracle prices table and get some sort of daily average. We see that UST is ahead, followed by SDT, KRT, and then MNT. This is a flip from the earlier graph, where we saw that KRT, balance-wise, was in much greater circulating supply. Relative to the amount of USD that can be absorbed, we see that UST is a much better fit.
+
+## Understanding Stablecoin Mechanisms
+
+To understand why stablecoins have a circulating supply (beyond the fact that stablecoins can get locked), we need to understand the underlying mechanics behind a stablecoin. If we refer back to the CB Insights photo at the top of this article, we see that most stablecoins requires collateral. Just like the Federal Reserve originally required assets like gold to back its assets, each stablecoin usually needs to have something backing it. This asset can be fiat (like USD), crypto (like WETH), or commodity based (gold). If the price of the asset ever falls below a certain threshold of the borrowed amount, the borrower gets liquidated.
+
+Terra stablecoins are not collateralized. They are algorithmic with greater incentive for arbitrage the farther off the stablecoin is from the peg. Terra can do this because there is a true price established for each asset it is dealing with, that it gets from oracles like Chainlink.
+
+This arbitrage is achieved via minting and burning with different weights assigned to move the price to the true price. Minting and burning cause supply volatility although the arbitrage does great work in minimizing it.
+
+## Conclusion
+
+We find that our hypothesis was correct from a sheer balance perspective. **There is more free-floating KRT out there than any other stablecoin. From a value perspective, however, that KRT cannot absorb as much capital as that of other Terra stablecoins**. UST would be a better fit for securing your capital (putting away algorithimic concerns) in the event of a bank run (from a pure circulating supply value POV).
