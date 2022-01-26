@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://unintendedcon.github.io/articles/analyzing-daily-transactions-on-polygon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/an-introduction-to-defi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/bonded-luna-vs-unbonded-luna-past-6-months</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/articles/dealing-with-nested-structures-in-javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/articles/ethical-outsourcing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://unintendedcon.github.io/articles/an-introduction-to-defi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://unintendedcon.github.io/articles/why-are-recommender-systems-so-bad</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/fees-on-matic-vs-ethereum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/gas-on-terra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/largest-actors-on-polygon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/minting-an-nft-via-polygon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/personal-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/polygon-bridge-destinations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/querying-terra-eth-bridge-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/quick-guide-to-recursive-sql-queries</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/summarizing-improved-price-oracles-by-angeris-and-chitra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/spectrum-a-terra-yield-aggregator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/sushiswap-transactions-on-polygon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/terra-average-delegator-apy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/terra-stablecoin-total-supply</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/terraswap-determining-average-trade-sizes-of-top-5-pools-by-volume</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/articles/thoughts-on-polywork-and-documentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/why-are-recommender-systems-so-bad</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/why-is-luna-rising</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/10x/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://unintendedcon.github.io/articles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/books/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://unintendedcon.github.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
