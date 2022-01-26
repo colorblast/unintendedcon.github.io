@@ -9,9 +9,9 @@ import "../css/index.css"
 function IndexPage() {
   const submitForm = () => {
     window.open(
-      "https://tinyletter.com/reallyidk",
-      "popupwindow",
-      "scrollbars=yes,width=800,height=600"
+      `https://tinyletter.com/reallyidk`,
+      `popupwindow`,
+      `scrollbars=yes,width=800,height=600`
     )
     return true
   }
@@ -34,17 +34,10 @@ function IndexPage() {
         </h2>
         <div className="">
           <h3 className="text-xl">
-            Hi! I'm Jonathan! I'm interested in the underlying abstractions and
-            patterns in our lives. I'm particularly interested in theater,
-            defaults, myths, derivatives, emergence, clusters, paradoxes, loops,
-            iteration cycles, power dynamics, and serial entrepreneurs. I keep a
-            running list of all of them.
+            Sup. This is Jonathan and you're on my personal site, unintendedcon.
           </h3>
           <h3 className="text-xl my-4">
-            I'm currently a blockchain engineering intern at Nethermind where I
-            am given free rein to do pretty much whatever interests me. Right
-            now, this is data pipelines, miner-extractable-value (MEV),
-            solidity, and adventures into formal verification.
+            I'm a junior blockchain engineer at Nethermind where I work on infrastructure. Outside of this, I'm interested in progress studies, patterns, myths, and things that give me competitive advantage. If you're new here, I also write.
           </h3>
         </div>
         <div className="my-4">
