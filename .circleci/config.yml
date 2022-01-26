@@ -12,7 +12,7 @@ jobs:
           install-npm: false
           node-version: 14.12.0
           yarn-version: 1.22.10
-      - run: git config user.email "jwong123@binghamton.edu"
+      - run: git config user.email "8844453+unintendedcon@users.noreply.github.com"
       - run: git config user.name "Jonathan Wong"
       - run: yarn install
       - run: yarn build
@@ -23,5 +23,5 @@ workflows:
       - pusher:
         filters:
           branches:
-            only: 
+            only:
               - develop
